@@ -1,3 +1,11 @@
+setclipboard("https://discord.gg/XbtYhNZCaZ")
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Discord";
+    Text = "Discord Ave Ben Copied";
+    Icon = "";
+    Duration = "2";
+})
+
 local A_1 = "Made By DarkExEToR!🎃"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
