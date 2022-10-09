@@ -1,0 +1,1089 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("DarkHub Mining Clicker Simulator V1", "DarkTheme")
+local Tab = Window:NewTab("Welcome")
+local Section = Tab:NewSection("Welcome to DarkHub Mining Clicker Simulator V1")
+Section:NewButton("Welcome", "Welcome", function()
+    print("Clicked") print("LOL")
+end)
+
+local Tab = Window:NewTab("Eggs(fast unlock)")
+local Eggs = Tab:NewSection("Zone1")
+Eggs:NewButton("Starter egg", "WORK!", function()
+    print("Clicked") local A_1 = "Starter Egg"
+local A_2 = 1
+local Event = game:GetService("ReplicatedStorage").Remotes.buyEgg
+Event:InvokeServer(A_1, A_2)
+end)
+
+Eggs:NewButton("Spotted Egg", "WORK!", function()
+    print("Clicked") local A_1 = "Spotted Egg"
+local A_2 = 1
+local Event = game:GetService("ReplicatedStorage").Remotes.buyEgg
+Event:InvokeServer(A_1, A_2)
+end)
+
+Eggs:NewButton("Floral Egg", "WORK!", function()
+    print("Clicked") local A_1 = "Floral Egg"
+local A_2 = 1
+local Event = game:GetService("ReplicatedStorage").Remotes.buyEgg
+Event:InvokeServer(A_1, A_2)
+end)
+
+local Tab = Window:NewTab("AutoClicker")
+local AutoClick = Tab:NewSection("AutoClicker")
+AutoClick:NewButton("Slow auto Clicker", "WORK!", function()
+    print("Clicked") wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(2)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer() 
+end)
+
+AutoClick:NewButton("Fast auto Clicker", "WORK!", function()
+    print("Clicked") wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+end)
+
+AutoClick:NewButton("Extreme auto Clicker", "WORK!", function()
+    print("Clicked") wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+wait(0.1)
+local Event = game:GetService("ReplicatedStorage").Remotes.Click
+Event:InvokeServer()
+end)
+
+local Tab = Window:NewTab("Codes")
+local Codes = Tab:NewSection("Redeem")
+Codes:NewButton("Redeem all codes", "WORK!", function()
+    print("Clicked") local A_1 = "1KLIKES"
+local Event = game:GetService("ReplicatedStorage").Remotes.RedeemCode
+Event:InvokeServer(A_1)
+end)
+
+local Tab = Window:NewTab("Pickaxes(fast unlock)")
+local Pioche = Tab:NewSection("Zone1")
+Pioche:NewButton("Birch Pickaxe", "WORK!", function()
+    print("Clicked") local A_1 = "Bronze Pickaxe"
+local Event = game:GetService("ReplicatedStorage").Remotes.BuyPickaxe
+Event:InvokeServer(A_1)
+end)
