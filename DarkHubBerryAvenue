@@ -1,11 +1,3 @@
-setclipboard("https://discord.gg/XbtYhNZCaZ")
-game.StarterGui:SetCore("SendNotification", {
-    Title = "Discord";
-    Text = "Discord Ave Ben Copied";
-    Icon = "";
-    Duration = "2";
-})
-
 local A_1 = "Made By DarkExEToR!🎃"
 local A_2 = "All"
 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
@@ -2361,5 +2353,51 @@ wait(0.1)
 local A_1 = "ChangeAge"
 local A_2 = "Child"
 local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+Event:InvokeServer(A_1, A_2)
+end)
+
+
+local Tab = Window:NewTab("FE")
+local Section = Tab:NewSection("Fe Section")
+Section:NewButton("Crash Server(Spam Button)", "WORK!", function()
+    print("Clicked") wait(0.1)
+local A_1 = "Plot1"
+local A_2 = "Botanical"
+local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.LoadHouse
+Event:InvokeServer(A_1, A_2)
+wait(0.1)
+local A_1 = "Plot2"
+local A_2 = "Botanical"
+local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.LoadHouse
+Event:InvokeServer(A_1, A_2)
+wait(0.1)
+local A_1 = "Plot3"
+local A_2 = "Botanical"
+local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.LoadHouse
+Event:InvokeServer(A_1, A_2)
+wait(0.1)
+local A_1 = "Plot4"
+local A_2 = "Botanical"
+local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.LoadHouse
+Event:InvokeServer(A_1, A_2)
+wait(0.1)
+local A_1 = "Plot5"
+local A_2 = "Botanical"
+local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.LoadHouse
+Event:InvokeServer(A_1, A_2)
+wait(0.1)
+local A_1 = "Plot6"
+local A_2 = "Botanical"
+local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.LoadHouse
+Event:InvokeServer(A_1, A_2)
+wait(0.1)
+local A_1 = "Plot7"
+local A_2 = "Botanical"
+local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.LoadHouse
+Event:InvokeServer(A_1, A_2)
+wait(0.1)
+local A_1 = "Plot8"
+local A_2 = "Botanical"
+local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.LoadHouse
 Event:InvokeServer(A_1, A_2)
 end)
