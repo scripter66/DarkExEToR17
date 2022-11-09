@@ -148,7 +148,7 @@ Start.Parent = ScreenGui
 Start.BackgroundColor3 = Color3.fromRGB(47, 47, 47)
 Start.Position = UDim2.new(0.306475908, 0, 0.2765432, 0)
 Start.Size = UDim2.new(0, 514, 0, 34)
-Start.Visible = true
+Start.Visible = false
 
 UICorner.Parent = Start
 
@@ -942,7 +942,6 @@ KeyStart.Parent = ScreenGui
 KeyStart.BackgroundColor3 = Color3.fromRGB(47, 47, 47)
 KeyStart.Position = UDim2.new(0.420933723, 0, 0.398765385, 0)
 KeyStart.Size = UDim2.new(0, 277, 0, 148)
-KeyStart.Visible = false
 
 UICorner_56.Parent = KeyStart
 
