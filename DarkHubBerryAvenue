@@ -2226,7 +2226,7 @@ local function HZRKPKH_fake_script() -- GetKey.LocalScript
 	local script = Instance.new('LocalScript', GetKey)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		setclipboard("https://discord.gg/XbtYhNZCaZ")
+		print("lol")
 	end)
 end
 coroutine.wrap(HZRKPKH_fake_script)()
