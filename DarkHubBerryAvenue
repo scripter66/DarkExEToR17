@@ -1365,25 +1365,6 @@ local function LGFHO_fake_script() -- ValidateNotifi2.LocalScript
 		script.Parent.Parent.ValidateNotifi2.Visible = false
 	end)
 end
-coroutine.wrap(LGFHO_fake_script)()
-local function OUFIJES_fake_script() -- SpamHalo.LocalScript 
-	local script = Instance.new('LocalScript', SpamHalo)
-
-	script.Parent.MouseButton1Click:Connect(function()
-		_G.SpamDecorate = true
-	
-		while _G.SpamDecorate == true do
-			wait(0.1)
-			local A_1 = "Decorate"
-			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.CallHouseMethod
-			Event:InvokeServer(A_1)
-			wait(0.1)
-			local A_1 = "Decorate"
-			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.CallHouseMethod
-			Event:InvokeServer(A_1)
-		end
-	end)
-end
 coroutine.wrap(OUFIJES_fake_script)()
 local function ITLYQA_fake_script() -- SpamHalo.LocalScript 
 	local script = Instance.new('LocalScript', SpamHalo)
@@ -1393,35 +1374,6 @@ local function ITLYQA_fake_script() -- SpamHalo.LocalScript
 		script.Parent.Parent.SpamHalo.Visible = false
 	end)
 end
-coroutine.wrap(ITLYQA_fake_script)()
-local function GXRU_fake_script() -- SpamHalo2.LocalScript 
-	local script = Instance.new('LocalScript', SpamHalo2)
-
-	script.Parent.MouseButton1Click:Connect(function()
-		_G.SpamDecorate = false
-	
-		while _G.SpamDecorate == true do
-			wait(0.1)
-			local A_1 = "Decorate"
-			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.CallHouseMethod
-			Event:InvokeServer(A_1)
-			wait(0.1)
-			local A_1 = "Decorate"
-			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.CallHouseMethod
-			Event:InvokeServer(A_1)
-		end
-	end)
-end
-coroutine.wrap(GXRU_fake_script)()
-local function GVVFJOZ_fake_script() -- SpamHalo2.LocalScript 
-	local script = Instance.new('LocalScript', SpamHalo2)
-
-	script.Parent.MouseButton1Click:Connect(function()
-		script.Parent.Parent.SpamHalo.Visible = true
-		script.Parent.Parent.SpamHalo2.Visible = false
-	end)
-end
-coroutine.wrap(GVVFJOZ_fake_script)()
 local function QXQEEZT_fake_script() -- SpamLight.LocalScript 
 	local script = Instance.new('LocalScript', SpamLight)
 
