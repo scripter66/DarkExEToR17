@@ -17,6 +17,7 @@ local Home = Instance.new("TextButton")
 local Avatar = Instance.new("TextButton")
 local Car = Instance.new("TextButton")
 local House = Instance.new("TextButton")
+local Fun = Instance.new("TextButton")
 local HomeScroll = Instance.new("ScrollingFrame")
 local LOL = Instance.new("Frame")
 local UICorner_4 = Instance.new("UICorner")
@@ -35,75 +36,107 @@ local TextLabel_4 = Instance.new("TextLabel")
 local UICorner_9 = Instance.new("UICorner")
 local ValidateHouseChange = Instance.new("TextButton")
 local UICorner_10 = Instance.new("UICorner")
-local PlotChoose = Instance.new("TextBox")
+local ValidateHouseChange2 = Instance.new("TextButton")
 local UICorner_11 = Instance.new("UICorner")
-local CarScroll = Instance.new("ScrollingFrame")
+local PlotChoose = Instance.new("TextBox")
 local UICorner_12 = Instance.new("UICorner")
 local TextLabel_5 = Instance.new("TextLabel")
 local UICorner_13 = Instance.new("UICorner")
-local SpamLight = Instance.new("TextButton")
+local ValidateNotifi = Instance.new("TextButton")
 local UICorner_14 = Instance.new("UICorner")
-local RedAndGreenCar = Instance.new("TextButton")
+local ValidateNotifi2 = Instance.new("TextButton")
 local UICorner_15 = Instance.new("UICorner")
-local TextLabel_6 = Instance.new("TextLabel")
+local PlayerChoose = Instance.new("TextBox")
 local UICorner_16 = Instance.new("UICorner")
-local TextLabel_7 = Instance.new("TextLabel")
+local TextLabel_6 = Instance.new("TextLabel")
 local UICorner_17 = Instance.new("UICorner")
-local SpamSpawnCar = Instance.new("TextButton")
+local SpamHalo = Instance.new("TextButton")
 local UICorner_18 = Instance.new("UICorner")
-local AvatarScroll = Instance.new("ScrollingFrame")
+local SpamHalo2 = Instance.new("TextButton")
 local UICorner_19 = Instance.new("UICorner")
-local TextLabel_8 = Instance.new("TextLabel")
+local CarScroll = Instance.new("ScrollingFrame")
 local UICorner_20 = Instance.new("UICorner")
-local ValidateName = Instance.new("TextButton")
+local TextLabel_7 = Instance.new("TextLabel")
 local UICorner_21 = Instance.new("UICorner")
-local RespawnValidate = Instance.new("TextButton")
+local SpamLight = Instance.new("TextButton")
 local UICorner_22 = Instance.new("UICorner")
-local BlackAndBasique = Instance.new("TextButton")
+local RedAndGreenCar = Instance.new("TextButton")
 local UICorner_23 = Instance.new("UICorner")
-local NameBox2 = Instance.new("TextBox")
+local SpamLight2 = Instance.new("TextButton")
 local UICorner_24 = Instance.new("UICorner")
-local NameBox3 = Instance.new("TextBox")
+local RedAndGreenCar2 = Instance.new("TextButton")
 local UICorner_25 = Instance.new("UICorner")
-local TextLabel_9 = Instance.new("TextLabel")
+local TextLabel_8 = Instance.new("TextLabel")
 local UICorner_26 = Instance.new("UICorner")
-local NameBox1 = Instance.new("TextBox")
+local TextLabel_9 = Instance.new("TextLabel")
 local UICorner_27 = Instance.new("UICorner")
-local TextLabel_10 = Instance.new("TextLabel")
+local SpamSpawnCar = Instance.new("TextButton")
 local UICorner_28 = Instance.new("UICorner")
-local TextLabel_11 = Instance.new("TextLabel")
+local SpamSpawnCar2 = Instance.new("TextButton")
 local UICorner_29 = Instance.new("UICorner")
-local SpamChangeHat = Instance.new("TextButton")
+local AvatarScroll = Instance.new("ScrollingFrame")
 local UICorner_30 = Instance.new("UICorner")
-local TextLabel_12 = Instance.new("TextLabel")
+local TextLabel_10 = Instance.new("TextLabel")
 local UICorner_31 = Instance.new("UICorner")
-local SpamChatMessage = Instance.new("TextButton")
+local ValidateName = Instance.new("TextButton")
 local UICorner_32 = Instance.new("UICorner")
-local SpamChatMessageBox = Instance.new("TextBox")
+local RespawnValidate = Instance.new("TextButton")
 local UICorner_33 = Instance.new("UICorner")
-local TextLabel_13 = Instance.new("TextLabel")
+local BlackAndBasique = Instance.new("TextButton")
 local UICorner_34 = Instance.new("UICorner")
-local ChangeHat = Instance.new("TextButton")
+local ValidateName2 = Instance.new("TextButton")
 local UICorner_35 = Instance.new("UICorner")
-local HatIDChangeHat = Instance.new("TextBox")
+local BlackAndBasique2 = Instance.new("TextButton")
 local UICorner_36 = Instance.new("UICorner")
-local TextLabel_14 = Instance.new("TextLabel")
+local NameBox2 = Instance.new("TextBox")
 local UICorner_37 = Instance.new("UICorner")
-local FreeKorblox = Instance.new("TextButton")
+local NameBox3 = Instance.new("TextBox")
 local UICorner_38 = Instance.new("UICorner")
-local FreeHeadless = Instance.new("TextButton")
+local TextLabel_11 = Instance.new("TextLabel")
 local UICorner_39 = Instance.new("UICorner")
+local NameBox1 = Instance.new("TextBox")
+local UICorner_40 = Instance.new("UICorner")
+local TextLabel_12 = Instance.new("TextLabel")
+local UICorner_41 = Instance.new("UICorner")
+local TextLabel_13 = Instance.new("TextLabel")
+local UICorner_42 = Instance.new("UICorner")
+local SpamChatMessage = Instance.new("TextButton")
+local UICorner_43 = Instance.new("UICorner")
+local SpamChatMessageBox = Instance.new("TextBox")
+local UICorner_44 = Instance.new("UICorner")
+local SpamChatMessage2 = Instance.new("TextButton")
+local UICorner_45 = Instance.new("UICorner")
+local TextLabel_14 = Instance.new("TextLabel")
+local UICorner_46 = Instance.new("UICorner")
+local FreeKorblox = Instance.new("TextButton")
+local UICorner_47 = Instance.new("UICorner")
+local FreeHeadless = Instance.new("TextButton")
+local UICorner_48 = Instance.new("UICorner")
+local FunScroll = Instance.new("ScrollingFrame")
+local UICorner_49 = Instance.new("UICorner")
+local TextLabel_15 = Instance.new("TextLabel")
+local UICorner_50 = Instance.new("UICorner")
+local SpamSound = Instance.new("TextButton")
+local UICorner_51 = Instance.new("UICorner")
+local SpamSound2 = Instance.new("TextButton")
+local UICorner_52 = Instance.new("UICorner")
+local TextLabel_16 = Instance.new("TextLabel")
+local UICorner_53 = Instance.new("UICorner")
+local SpamChangeHat = Instance.new("TextButton")
+local UICorner_54 = Instance.new("UICorner")
+local SpamChangeHat2 = Instance.new("TextButton")
+local UICorner_55 = Instance.new("UICorner")
 local Plus = Instance.new("TextButton")
 local KeyStart = Instance.new("Frame")
-local UICorner_40 = Instance.new("UICorner")
+local UICorner_56 = Instance.new("UICorner")
 local key = Instance.new("TextBox")
-local UICorner_41 = Instance.new("UICorner")
-local TextLabel_15 = Instance.new("TextLabel")
+local UICorner_57 = Instance.new("UICorner")
+local TextLabel_17 = Instance.new("TextLabel")
 local ConfirmKey = Instance.new("TextButton")
-local UICorner_42 = Instance.new("UICorner")
+local UICorner_58 = Instance.new("UICorner")
 local GetKey = Instance.new("TextButton")
-local UICorner_43 = Instance.new("UICorner")
-local TextLabel_16 = Instance.new("TextLabel")
+local UICorner_59 = Instance.new("UICorner")
+local TextLabel_18 = Instance.new("TextLabel")
 
 --Properties:
 
@@ -115,7 +148,7 @@ Start.Parent = ScreenGui
 Start.BackgroundColor3 = Color3.fromRGB(47, 47, 47)
 Start.Position = UDim2.new(0.306475908, 0, 0.2765432, 0)
 Start.Size = UDim2.new(0, 514, 0, 34)
-Start.Visible = false
+Start.Visible = true
 
 UICorner.Parent = Start
 
@@ -125,7 +158,7 @@ TextLabel.BackgroundTransparency = 1.000
 TextLabel.Position = UDim2.new(-0.0661478564, 0, 0, 0)
 TextLabel.Size = UDim2.new(0, 200, 0, 34)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = "DarkHub V1.2"
+TextLabel.Text = "DarkHub V1.3"
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextSize = 26.000
 
@@ -209,6 +242,17 @@ House.Font = Enum.Font.SourceSans
 House.Text = "House"
 House.TextColor3 = Color3.fromRGB(255, 255, 255)
 House.TextSize = 34.000
+
+Fun.Name = "Fun"
+Fun.Parent = TabChoosing
+Fun.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Fun.BackgroundTransparency = 1.000
+Fun.Position = UDim2.new(0, 0, 0.699999988, 0)
+Fun.Size = UDim2.new(0, 129, 0, 43)
+Fun.Font = Enum.Font.SourceSans
+Fun.Text = "Funs"
+Fun.TextColor3 = Color3.fromRGB(255, 255, 255)
+Fun.TextSize = 34.000
 
 HomeScroll.Name = "HomeScroll"
 HomeScroll.Parent = ScriptLaunched
@@ -331,11 +375,24 @@ ValidateHouseChange.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 ValidateHouseChange.Position = UDim2.new(-0.000241614878, 0, 2.42785883, 0)
 ValidateHouseChange.Size = UDim2.new(0, 301, 0, 31)
 ValidateHouseChange.Font = Enum.Font.SourceSans
-ValidateHouseChange.Text = "Validate Name!"
+ValidateHouseChange.Text = "Validate House Plot!"
 ValidateHouseChange.TextColor3 = Color3.fromRGB(255, 255, 255)
 ValidateHouseChange.TextSize = 14.000
 
 UICorner_10.Parent = ValidateHouseChange
+
+ValidateHouseChange2.Name = "ValidateHouseChange2"
+ValidateHouseChange2.Parent = TextLabel_4
+ValidateHouseChange2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+ValidateHouseChange2.Position = UDim2.new(-0.000241614878, 0, 2.42785883, 0)
+ValidateHouseChange2.Size = UDim2.new(0, 301, 0, 31)
+ValidateHouseChange2.Visible = false
+ValidateHouseChange2.Font = Enum.Font.SourceSans
+ValidateHouseChange2.Text = "Validate House Plot!"
+ValidateHouseChange2.TextColor3 = Color3.fromRGB(255, 85, 0)
+ValidateHouseChange2.TextSize = 14.000
+
+UICorner_11.Parent = ValidateHouseChange2
 
 PlotChoose.Name = "PlotChoose"
 PlotChoose.Parent = HouseScroll
@@ -348,7 +405,92 @@ PlotChoose.Text = ""
 PlotChoose.TextColor3 = Color3.fromRGB(255, 255, 255)
 PlotChoose.TextSize = 14.000
 
-UICorner_11.Parent = PlotChoose
+UICorner_12.Parent = PlotChoose
+
+TextLabel_5.Parent = HouseScroll
+TextLabel_5.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_5.Position = UDim2.new(0.0883116871, 0, 0.100536615, 0)
+TextLabel_5.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_5.Font = Enum.Font.SourceSans
+TextLabel_5.Text = "Spam Notification"
+TextLabel_5.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_5.TextSize = 14.000
+
+UICorner_13.Parent = TextLabel_5
+
+ValidateNotifi.Name = "ValidateNotifi"
+ValidateNotifi.Parent = TextLabel_5
+ValidateNotifi.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+ValidateNotifi.Position = UDim2.new(-0.000241614878, 0, 2.59452558, 0)
+ValidateNotifi.Size = UDim2.new(0, 301, 0, 31)
+ValidateNotifi.Font = Enum.Font.SourceSans
+ValidateNotifi.Text = "Spam Notification Player!"
+ValidateNotifi.TextColor3 = Color3.fromRGB(255, 255, 255)
+ValidateNotifi.TextSize = 14.000
+
+UICorner_14.Parent = ValidateNotifi
+
+ValidateNotifi2.Name = "ValidateNotifi2"
+ValidateNotifi2.Parent = TextLabel_5
+ValidateNotifi2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+ValidateNotifi2.Position = UDim2.new(-0.00356387394, 0, 2.59452558, 0)
+ValidateNotifi2.Size = UDim2.new(0, 301, 0, 31)
+ValidateNotifi2.Visible = false
+ValidateNotifi2.Font = Enum.Font.SourceSans
+ValidateNotifi2.Text = "Spam Notification Player!"
+ValidateNotifi2.TextColor3 = Color3.fromRGB(255, 85, 0)
+ValidateNotifi2.TextSize = 14.000
+
+UICorner_15.Parent = ValidateNotifi2
+
+PlayerChoose.Name = "PlayerChoose"
+PlayerChoose.Parent = HouseScroll
+PlayerChoose.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+PlayerChoose.Position = UDim2.new(0.0857142881, 0, 0.12997508, 0)
+PlayerChoose.Size = UDim2.new(0, 301, 0, 31)
+PlayerChoose.Font = Enum.Font.SourceSans
+PlayerChoose.PlaceholderText = "Enter Text Here!"
+PlayerChoose.Text = ""
+PlayerChoose.TextColor3 = Color3.fromRGB(255, 255, 255)
+PlayerChoose.TextSize = 14.000
+
+UICorner_16.Parent = PlayerChoose
+
+TextLabel_6.Parent = HouseScroll
+TextLabel_6.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_6.Position = UDim2.new(0.0857142881, 0, 0.196083173, 0)
+TextLabel_6.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_6.Font = Enum.Font.SourceSans
+TextLabel_6.Text = "Spam Halloween Deco"
+TextLabel_6.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_6.TextSize = 14.000
+
+UICorner_17.Parent = TextLabel_6
+
+SpamHalo.Name = "SpamHalo"
+SpamHalo.Parent = TextLabel_6
+SpamHalo.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+SpamHalo.Position = UDim2.new(0.00308064418, 0, 1.29452562, 0)
+SpamHalo.Size = UDim2.new(0, 301, 0, 31)
+SpamHalo.Font = Enum.Font.SourceSans
+SpamHalo.Text = "Spam Halloween Deco"
+SpamHalo.TextColor3 = Color3.fromRGB(255, 255, 255)
+SpamHalo.TextSize = 14.000
+
+UICorner_18.Parent = SpamHalo
+
+SpamHalo2.Name = "SpamHalo2"
+SpamHalo2.Parent = TextLabel_6
+SpamHalo2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+SpamHalo2.Position = UDim2.new(0.00308064418, 0, 1.29452562, 0)
+SpamHalo2.Size = UDim2.new(0, 301, 0, 31)
+SpamHalo2.Visible = false
+SpamHalo2.Font = Enum.Font.SourceSans
+SpamHalo2.Text = "Spam Halloween Deco"
+SpamHalo2.TextColor3 = Color3.fromRGB(255, 85, 0)
+SpamHalo2.TextSize = 14.000
+
+UICorner_19.Parent = SpamHalo2
 
 CarScroll.Name = "CarScroll"
 CarScroll.Parent = ScriptLaunched
@@ -359,21 +501,21 @@ CarScroll.Position = UDim2.new(0.250972718, 0, 0.0283400789, 0)
 CarScroll.Size = UDim2.new(0, 385, 0, 240)
 CarScroll.Visible = false
 
-UICorner_12.Parent = CarScroll
+UICorner_20.Parent = CarScroll
 
-TextLabel_5.Parent = CarScroll
-TextLabel_5.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_5.Position = UDim2.new(0.0961038917, 0, 0.0244232565, 0)
-TextLabel_5.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_5.Font = Enum.Font.SourceSans
-TextLabel_5.Text = "Spam Car Light"
-TextLabel_5.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_5.TextSize = 14.000
+TextLabel_7.Parent = CarScroll
+TextLabel_7.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_7.Position = UDim2.new(0.0961038917, 0, 0.0244232565, 0)
+TextLabel_7.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_7.Font = Enum.Font.SourceSans
+TextLabel_7.Text = "Spam Car Light"
+TextLabel_7.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_7.TextSize = 14.000
 
-UICorner_13.Parent = TextLabel_5
+UICorner_21.Parent = TextLabel_7
 
 SpamLight.Name = "SpamLight"
-SpamLight.Parent = TextLabel_5
+SpamLight.Parent = TextLabel_7
 SpamLight.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 SpamLight.Position = UDim2.new(-0.000241614878, 0, 1.22785878, 0)
 SpamLight.Size = UDim2.new(0, 301, 0, 31)
@@ -382,10 +524,10 @@ SpamLight.Text = "Spam Lights"
 SpamLight.TextColor3 = Color3.fromRGB(255, 255, 255)
 SpamLight.TextSize = 14.000
 
-UICorner_14.Parent = SpamLight
+UICorner_22.Parent = SpamLight
 
 RedAndGreenCar.Name = "RedAndGreenCar"
-RedAndGreenCar.Parent = TextLabel_5
+RedAndGreenCar.Parent = TextLabel_7
 RedAndGreenCar.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 RedAndGreenCar.Position = UDim2.new(-0.000241614878, 0, 3.66119242, 0)
 RedAndGreenCar.Size = UDim2.new(0, 301, 0, 31)
@@ -394,32 +536,58 @@ RedAndGreenCar.Text = "Red and Green Now!!!"
 RedAndGreenCar.TextColor3 = Color3.fromRGB(255, 255, 255)
 RedAndGreenCar.TextSize = 14.000
 
-UICorner_15.Parent = RedAndGreenCar
+UICorner_23.Parent = RedAndGreenCar
 
-TextLabel_6.Parent = CarScroll
-TextLabel_6.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_6.Position = UDim2.new(0.0961038917, 0, 0.172196507, 0)
-TextLabel_6.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_6.Font = Enum.Font.SourceSans
-TextLabel_6.Text = "Red And Green Car"
-TextLabel_6.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_6.TextSize = 21.000
+SpamLight2.Name = "SpamLight2"
+SpamLight2.Parent = TextLabel_7
+SpamLight2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+SpamLight2.Position = UDim2.new(-0.000241614878, 0, 1.22785878, 0)
+SpamLight2.Size = UDim2.new(0, 301, 0, 31)
+SpamLight2.Visible = false
+SpamLight2.Font = Enum.Font.SourceSans
+SpamLight2.Text = "Spam Lights"
+SpamLight2.TextColor3 = Color3.fromRGB(255, 85, 0)
+SpamLight2.TextSize = 14.000
 
-UICorner_16.Parent = TextLabel_6
+UICorner_24.Parent = SpamLight2
 
-TextLabel_7.Parent = CarScroll
-TextLabel_7.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_7.Position = UDim2.new(0.0961038917, 0, 0.324018419, 0)
-TextLabel_7.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_7.Font = Enum.Font.SourceSans
-TextLabel_7.Text = "Spam Car Spawn"
-TextLabel_7.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_7.TextSize = 14.000
+RedAndGreenCar2.Name = "RedAndGreenCar2"
+RedAndGreenCar2.Parent = TextLabel_7
+RedAndGreenCar2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+RedAndGreenCar2.Position = UDim2.new(-0.000241614878, 0, 3.66119242, 0)
+RedAndGreenCar2.Size = UDim2.new(0, 301, 0, 31)
+RedAndGreenCar2.Visible = false
+RedAndGreenCar2.Font = Enum.Font.SourceSans
+RedAndGreenCar2.Text = "Red and Green Now!!!"
+RedAndGreenCar2.TextColor3 = Color3.fromRGB(255, 85, 0)
+RedAndGreenCar2.TextSize = 14.000
 
-UICorner_17.Parent = TextLabel_7
+UICorner_25.Parent = RedAndGreenCar2
+
+TextLabel_8.Parent = CarScroll
+TextLabel_8.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_8.Position = UDim2.new(0.0961038917, 0, 0.172196507, 0)
+TextLabel_8.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_8.Font = Enum.Font.SourceSans
+TextLabel_8.Text = "Red And Green Car"
+TextLabel_8.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_8.TextSize = 21.000
+
+UICorner_26.Parent = TextLabel_8
+
+TextLabel_9.Parent = CarScroll
+TextLabel_9.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_9.Position = UDim2.new(0.0961038917, 0, 0.324018419, 0)
+TextLabel_9.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_9.Font = Enum.Font.SourceSans
+TextLabel_9.Text = "Spam Car Spawn"
+TextLabel_9.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_9.TextSize = 14.000
+
+UICorner_27.Parent = TextLabel_9
 
 SpamSpawnCar.Name = "SpamSpawnCar"
-SpamSpawnCar.Parent = TextLabel_7
+SpamSpawnCar.Parent = TextLabel_9
 SpamSpawnCar.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 SpamSpawnCar.Position = UDim2.new(-0.000241614878, 0, 1.26119232, 0)
 SpamSpawnCar.Size = UDim2.new(0, 301, 0, 31)
@@ -428,7 +596,20 @@ SpamSpawnCar.Text = "Spam Spawn Car"
 SpamSpawnCar.TextColor3 = Color3.fromRGB(255, 255, 255)
 SpamSpawnCar.TextSize = 14.000
 
-UICorner_18.Parent = SpamSpawnCar
+UICorner_28.Parent = SpamSpawnCar
+
+SpamSpawnCar2.Name = "SpamSpawnCar2"
+SpamSpawnCar2.Parent = TextLabel_9
+SpamSpawnCar2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+SpamSpawnCar2.Position = UDim2.new(-0.000241614878, 0, 1.26119232, 0)
+SpamSpawnCar2.Size = UDim2.new(0, 301, 0, 31)
+SpamSpawnCar2.Visible = false
+SpamSpawnCar2.Font = Enum.Font.SourceSans
+SpamSpawnCar2.Text = "Spam Spawn Car"
+SpamSpawnCar2.TextColor3 = Color3.fromRGB(255, 85, 0)
+SpamSpawnCar2.TextSize = 14.000
+
+UICorner_29.Parent = SpamSpawnCar2
 
 AvatarScroll.Name = "AvatarScroll"
 AvatarScroll.Parent = ScriptLaunched
@@ -438,25 +619,24 @@ AvatarScroll.BackgroundTransparency = 1.000
 AvatarScroll.Position = UDim2.new(0.250972748, 0, 0.0283400808, 0)
 AvatarScroll.Size = UDim2.new(0, 385, 0, 239)
 AvatarScroll.Visible = false
-AvatarScroll.CanvasPosition = Vector2.new(0, 450)
 AvatarScroll.CanvasSize = UDim2.new(0, 0, 5, 0)
 AvatarScroll.VerticalScrollBarPosition = Enum.VerticalScrollBarPosition.Left
 
-UICorner_19.Parent = AvatarScroll
+UICorner_30.Parent = AvatarScroll
 
-TextLabel_8.Parent = AvatarScroll
-TextLabel_8.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_8.Position = UDim2.new(0.0909090862, 0, 0.00984835811, 0)
-TextLabel_8.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_8.Font = Enum.Font.SourceSans
-TextLabel_8.Text = "Spam Change Name"
-TextLabel_8.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_8.TextSize = 14.000
+TextLabel_10.Parent = AvatarScroll
+TextLabel_10.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_10.Position = UDim2.new(0.0909090862, 0, 0.00984835811, 0)
+TextLabel_10.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_10.Font = Enum.Font.SourceSans
+TextLabel_10.Text = "Spam Change Name"
+TextLabel_10.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_10.TextSize = 14.000
 
-UICorner_20.Parent = TextLabel_8
+UICorner_31.Parent = TextLabel_10
 
 ValidateName.Name = "ValidateName"
-ValidateName.Parent = TextLabel_8
+ValidateName.Parent = TextLabel_10
 ValidateName.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 ValidateName.Position = UDim2.new(0.00640290324, 0, 5.02785873, 0)
 ValidateName.Size = UDim2.new(0, 301, 0, 31)
@@ -465,10 +645,10 @@ ValidateName.Text = "Validate Name!"
 ValidateName.TextColor3 = Color3.fromRGB(255, 255, 255)
 ValidateName.TextSize = 14.000
 
-UICorner_21.Parent = ValidateName
+UICorner_32.Parent = ValidateName
 
 RespawnValidate.Name = "RespawnValidate"
-RespawnValidate.Parent = TextLabel_8
+RespawnValidate.Parent = TextLabel_10
 RespawnValidate.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 RespawnValidate.Position = UDim2.new(-0.000241614878, 0, 7.42785883, 0)
 RespawnValidate.Size = UDim2.new(0, 301, 0, 31)
@@ -477,19 +657,45 @@ RespawnValidate.Text = "Respawn Now"
 RespawnValidate.TextColor3 = Color3.fromRGB(255, 255, 255)
 RespawnValidate.TextSize = 14.000
 
-UICorner_22.Parent = RespawnValidate
+UICorner_33.Parent = RespawnValidate
 
 BlackAndBasique.Name = "BlackAndBasique"
-BlackAndBasique.Parent = TextLabel_8
+BlackAndBasique.Parent = TextLabel_10
 BlackAndBasique.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
-BlackAndBasique.Position = UDim2.new(-0.00356387394, 0, 10.0278587, 0)
+BlackAndBasique.Position = UDim2.new(-0.000241614878, 0, 9.92785835, 0)
 BlackAndBasique.Size = UDim2.new(0, 301, 0, 31)
 BlackAndBasique.Font = Enum.Font.SourceSans
-BlackAndBasique.Text = "Black And Basique Skin(WARNING!)"
+BlackAndBasique.Text = "Rainbow Skin"
 BlackAndBasique.TextColor3 = Color3.fromRGB(255, 255, 255)
 BlackAndBasique.TextSize = 14.000
 
-UICorner_23.Parent = BlackAndBasique
+UICorner_34.Parent = BlackAndBasique
+
+ValidateName2.Name = "ValidateName2"
+ValidateName2.Parent = TextLabel_10
+ValidateName2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+ValidateName2.Position = UDim2.new(0.00640290324, 0, 5.02785873, 0)
+ValidateName2.Size = UDim2.new(0, 301, 0, 31)
+ValidateName2.Visible = false
+ValidateName2.Font = Enum.Font.SourceSans
+ValidateName2.Text = "Validate Name!"
+ValidateName2.TextColor3 = Color3.fromRGB(255, 85, 0)
+ValidateName2.TextSize = 14.000
+
+UICorner_35.Parent = ValidateName2
+
+BlackAndBasique2.Name = "BlackAndBasique2"
+BlackAndBasique2.Parent = TextLabel_10
+BlackAndBasique2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+BlackAndBasique2.Position = UDim2.new(-0.00688613346, 0, 9.92785835, 0)
+BlackAndBasique2.Size = UDim2.new(0, 301, 0, 31)
+BlackAndBasique2.Visible = false
+BlackAndBasique2.Font = Enum.Font.SourceSans
+BlackAndBasique2.Text = "Rainbow Skin"
+BlackAndBasique2.TextColor3 = Color3.fromRGB(255, 85, 0)
+BlackAndBasique2.TextSize = 14.000
+
+UICorner_36.Parent = BlackAndBasique2
 
 NameBox2.Name = "NameBox2"
 NameBox2.Parent = AvatarScroll
@@ -502,7 +708,7 @@ NameBox2.Text = ""
 NameBox2.TextColor3 = Color3.fromRGB(255, 255, 255)
 NameBox2.TextSize = 14.000
 
-UICorner_24.Parent = NameBox2
+UICorner_37.Parent = NameBox2
 
 NameBox3.Name = "NameBox3"
 NameBox3.Parent = AvatarScroll
@@ -515,18 +721,18 @@ NameBox3.Text = ""
 NameBox3.TextColor3 = Color3.fromRGB(255, 255, 255)
 NameBox3.TextSize = 14.000
 
-UICorner_25.Parent = NameBox3
+UICorner_38.Parent = NameBox3
 
-TextLabel_9.Parent = AvatarScroll
-TextLabel_9.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_9.Position = UDim2.new(0.0961038843, 0, 0.160860479, 0)
-TextLabel_9.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_9.Font = Enum.Font.SourceSans
-TextLabel_9.Text = "Respawn"
-TextLabel_9.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_9.TextSize = 21.000
+TextLabel_11.Parent = AvatarScroll
+TextLabel_11.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_11.Position = UDim2.new(0.0961038843, 0, 0.160860479, 0)
+TextLabel_11.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_11.Font = Enum.Font.SourceSans
+TextLabel_11.Text = "Respawn"
+TextLabel_11.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_11.TextSize = 21.000
 
-UICorner_26.Parent = TextLabel_9
+UICorner_39.Parent = TextLabel_11
 
 NameBox1.Name = "NameBox1"
 NameBox1.Parent = AvatarScroll
@@ -539,55 +745,32 @@ NameBox1.Text = ""
 NameBox1.TextColor3 = Color3.fromRGB(255, 255, 255)
 NameBox1.TextSize = 14.000
 
-UICorner_27.Parent = NameBox1
-
-TextLabel_10.Parent = AvatarScroll
-TextLabel_10.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_10.Position = UDim2.new(0.0883116797, 0, 0.220779508, 0)
-TextLabel_10.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_10.Font = Enum.Font.SourceSans
-TextLabel_10.Text = "Skin"
-TextLabel_10.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_10.TextSize = 21.000
-
-UICorner_28.Parent = TextLabel_10
-
-TextLabel_11.Parent = AvatarScroll
-TextLabel_11.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_11.Position = UDim2.new(0.0857142806, 0, 0.282722831, 0)
-TextLabel_11.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_11.Font = Enum.Font.SourceSans
-TextLabel_11.Text = "Spam Hat Change(ONLY ONE)"
-TextLabel_11.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_11.TextSize = 14.000
-
-UICorner_29.Parent = TextLabel_11
-
-SpamChangeHat.Name = "SpamChangeHat"
-SpamChangeHat.Parent = TextLabel_11
-SpamChangeHat.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
-SpamChangeHat.Position = UDim2.new(-0.000241614878, 0, 1.19452524, 0)
-SpamChangeHat.Size = UDim2.new(0, 301, 0, 31)
-SpamChangeHat.Font = Enum.Font.SourceSans
-SpamChangeHat.Text = "Spam Change Hat"
-SpamChangeHat.TextColor3 = Color3.fromRGB(255, 255, 255)
-SpamChangeHat.TextSize = 14.000
-
-UICorner_30.Parent = SpamChangeHat
+UICorner_40.Parent = NameBox1
 
 TextLabel_12.Parent = AvatarScroll
 TextLabel_12.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_12.Position = UDim2.new(0.0831168815, 0, 0.34345156, 0)
+TextLabel_12.Position = UDim2.new(0.0883116797, 0, 0.220779508, 0)
 TextLabel_12.Size = UDim2.new(0, 301, 0, 30)
 TextLabel_12.Font = Enum.Font.SourceSans
-TextLabel_12.Text = "Spam Chat Message"
+TextLabel_12.Text = "Skin"
 TextLabel_12.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_12.TextSize = 14.000
+TextLabel_12.TextSize = 21.000
 
-UICorner_31.Parent = TextLabel_12
+UICorner_41.Parent = TextLabel_12
+
+TextLabel_13.Parent = AvatarScroll
+TextLabel_13.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_13.Position = UDim2.new(0.0883116871, 0, 0.282722801, 0)
+TextLabel_13.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_13.Font = Enum.Font.SourceSans
+TextLabel_13.Text = "Spam Chat Message"
+TextLabel_13.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_13.TextSize = 14.000
+
+UICorner_42.Parent = TextLabel_13
 
 SpamChatMessage.Name = "SpamChatMessage"
-SpamChatMessage.Parent = TextLabel_12
+SpamChatMessage.Parent = TextLabel_13
 SpamChatMessage.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 SpamChatMessage.Position = UDim2.new(-0.000241614878, 0, 2.5278585, 0)
 SpamChatMessage.Size = UDim2.new(0, 301, 0, 31)
@@ -596,10 +779,10 @@ SpamChatMessage.Text = "Spam Chat Message"
 SpamChatMessage.TextColor3 = Color3.fromRGB(255, 255, 255)
 SpamChatMessage.TextSize = 14.000
 
-UICorner_32.Parent = SpamChatMessage
+UICorner_43.Parent = SpamChatMessage
 
 SpamChatMessageBox.Name = "SpamChatMessageBox"
-SpamChatMessageBox.Parent = TextLabel_12
+SpamChatMessageBox.Parent = TextLabel_13
 SpamChatMessageBox.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 SpamChatMessageBox.Position = UDim2.new(0.00308064185, 0, 1.23253918, 0)
 SpamChatMessageBox.Size = UDim2.new(0, 301, 0, 31)
@@ -609,54 +792,31 @@ SpamChatMessageBox.Text = ""
 SpamChatMessageBox.TextColor3 = Color3.fromRGB(255, 255, 255)
 SpamChatMessageBox.TextSize = 14.000
 
-UICorner_33.Parent = SpamChatMessageBox
+UICorner_44.Parent = SpamChatMessageBox
 
-TextLabel_13.Parent = AvatarScroll
-TextLabel_13.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_13.Position = UDim2.new(0.080519475, 0, 0.433330119, 0)
-TextLabel_13.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_13.Font = Enum.Font.SourceSans
-TextLabel_13.Text = "Change Hat ID "
-TextLabel_13.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_13.TextSize = 14.000
+SpamChatMessage2.Name = "SpamChatMessage2"
+SpamChatMessage2.Parent = TextLabel_13
+SpamChatMessage2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+SpamChatMessage2.Position = UDim2.new(-0.000241614878, 0, 2.5278585, 0)
+SpamChatMessage2.Size = UDim2.new(0, 301, 0, 31)
+SpamChatMessage2.Visible = false
+SpamChatMessage2.Font = Enum.Font.SourceSans
+SpamChatMessage2.Text = "Spam Chat Message"
+SpamChatMessage2.TextColor3 = Color3.fromRGB(255, 85, 0)
+SpamChatMessage2.TextSize = 14.000
 
-UICorner_34.Parent = TextLabel_13
-
-ChangeHat.Name = "ChangeHat"
-ChangeHat.Parent = TextLabel_13
-ChangeHat.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
-ChangeHat.Position = UDim2.new(-0.000241614878, 0, 2.42785859, 0)
-ChangeHat.Size = UDim2.new(0, 301, 0, 31)
-ChangeHat.Font = Enum.Font.SourceSans
-ChangeHat.Text = "Spam Change Hat"
-ChangeHat.TextColor3 = Color3.fromRGB(255, 255, 255)
-ChangeHat.TextSize = 14.000
-
-UICorner_35.Parent = ChangeHat
-
-HatIDChangeHat.Name = "HatIDChangeHat"
-HatIDChangeHat.Parent = TextLabel_13
-HatIDChangeHat.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
-HatIDChangeHat.Position = UDim2.new(0.00308064185, 0, 1.23253918, 0)
-HatIDChangeHat.Size = UDim2.new(0, 301, 0, 31)
-HatIDChangeHat.Font = Enum.Font.SourceSans
-HatIDChangeHat.PlaceholderText = "Enter Text Here!"
-HatIDChangeHat.Text = ""
-HatIDChangeHat.TextColor3 = Color3.fromRGB(255, 255, 255)
-HatIDChangeHat.TextSize = 14.000
-
-UICorner_36.Parent = HatIDChangeHat
+UICorner_45.Parent = SpamChatMessage2
 
 TextLabel_14.Parent = AvatarScroll
 TextLabel_14.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_14.Position = UDim2.new(0.077922076, 0, 0.522398949, 0)
+TextLabel_14.Position = UDim2.new(0.0909090862, 0, 0.378269374, 0)
 TextLabel_14.Size = UDim2.new(0, 301, 0, 30)
 TextLabel_14.Font = Enum.Font.SourceSans
 TextLabel_14.Text = "Change Hat"
 TextLabel_14.TextColor3 = Color3.fromRGB(0, 170, 255)
 TextLabel_14.TextSize = 14.000
 
-UICorner_37.Parent = TextLabel_14
+UICorner_46.Parent = TextLabel_14
 
 FreeKorblox.Name = "FreeKorblox"
 FreeKorblox.Parent = TextLabel_14
@@ -668,7 +828,7 @@ FreeKorblox.Text = "Korblox"
 FreeKorblox.TextColor3 = Color3.fromRGB(255, 255, 255)
 FreeKorblox.TextSize = 14.000
 
-UICorner_38.Parent = FreeKorblox
+UICorner_47.Parent = FreeKorblox
 
 FreeHeadless.Name = "FreeHeadless"
 FreeHeadless.Parent = TextLabel_14
@@ -680,7 +840,90 @@ FreeHeadless.Text = "Headless"
 FreeHeadless.TextColor3 = Color3.fromRGB(255, 255, 255)
 FreeHeadless.TextSize = 14.000
 
-UICorner_39.Parent = FreeHeadless
+UICorner_48.Parent = FreeHeadless
+
+FunScroll.Name = "FunScroll"
+FunScroll.Parent = ScriptLaunched
+FunScroll.Active = true
+FunScroll.BackgroundColor3 = Color3.fromRGB(47, 47, 47)
+FunScroll.BackgroundTransparency = 1.000
+FunScroll.Position = UDim2.new(0.250972718, 0, 0.0283400789, 0)
+FunScroll.Size = UDim2.new(0, 385, 0, 240)
+FunScroll.Visible = false
+
+UICorner_49.Parent = FunScroll
+
+TextLabel_15.Parent = FunScroll
+TextLabel_15.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_15.Position = UDim2.new(0.0961038917, 0, 0.0244232565, 0)
+TextLabel_15.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_15.Font = Enum.Font.SourceSans
+TextLabel_15.Text = "[FE]Spam Sound"
+TextLabel_15.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_15.TextSize = 14.000
+
+UICorner_50.Parent = TextLabel_15
+
+SpamSound.Name = "SpamSound"
+SpamSound.Parent = TextLabel_15
+SpamSound.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+SpamSound.Position = UDim2.new(-0.000241614878, 0, 1.22785878, 0)
+SpamSound.Size = UDim2.new(0, 301, 0, 31)
+SpamSound.Font = Enum.Font.SourceSans
+SpamSound.Text = "Spam Sound (need a car)"
+SpamSound.TextColor3 = Color3.fromRGB(255, 255, 255)
+SpamSound.TextSize = 14.000
+
+UICorner_51.Parent = SpamSound
+
+SpamSound2.Name = "SpamSound2"
+SpamSound2.Parent = TextLabel_15
+SpamSound2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+SpamSound2.Position = UDim2.new(-0.000241614878, 0, 1.22785878, 0)
+SpamSound2.Size = UDim2.new(0, 301, 0, 31)
+SpamSound2.Visible = false
+SpamSound2.Font = Enum.Font.SourceSans
+SpamSound2.Text = "Spam Sound (need a car)"
+SpamSound2.TextColor3 = Color3.fromRGB(255, 85, 0)
+SpamSound2.TextSize = 14.000
+
+UICorner_52.Parent = SpamSound2
+
+TextLabel_16.Parent = FunScroll
+TextLabel_16.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_16.Position = UDim2.new(0.0961038917, 0, 0.173411086, 0)
+TextLabel_16.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_16.Font = Enum.Font.SourceSans
+TextLabel_16.Text = "Spam Hat Change(ONLY ONE)"
+TextLabel_16.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_16.TextSize = 14.000
+
+UICorner_53.Parent = TextLabel_16
+
+SpamChangeHat.Name = "SpamChangeHat"
+SpamChangeHat.Parent = TextLabel_16
+SpamChangeHat.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+SpamChangeHat.Position = UDim2.new(-0.000241614878, 0, 1.19452524, 0)
+SpamChangeHat.Size = UDim2.new(0, 301, 0, 31)
+SpamChangeHat.Font = Enum.Font.SourceSans
+SpamChangeHat.Text = "Spam Change Hat"
+SpamChangeHat.TextColor3 = Color3.fromRGB(255, 255, 255)
+SpamChangeHat.TextSize = 14.000
+
+UICorner_54.Parent = SpamChangeHat
+
+SpamChangeHat2.Name = "SpamChangeHat2"
+SpamChangeHat2.Parent = TextLabel_16
+SpamChangeHat2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+SpamChangeHat2.Position = UDim2.new(-0.000241614878, 0, 1.19452524, 0)
+SpamChangeHat2.Size = UDim2.new(0, 301, 0, 31)
+SpamChangeHat2.Visible = false
+SpamChangeHat2.Font = Enum.Font.SourceSans
+SpamChangeHat2.Text = "Spam Change Hat"
+SpamChangeHat2.TextColor3 = Color3.fromRGB(255, 85, 0)
+SpamChangeHat2.TextSize = 14.000
+
+UICorner_55.Parent = SpamChangeHat2
 
 Plus.Name = "Plus"
 Plus.Parent = Start
@@ -699,8 +942,9 @@ KeyStart.Parent = ScreenGui
 KeyStart.BackgroundColor3 = Color3.fromRGB(47, 47, 47)
 KeyStart.Position = UDim2.new(0.420933723, 0, 0.398765385, 0)
 KeyStart.Size = UDim2.new(0, 277, 0, 148)
+KeyStart.Visible = false
 
-UICorner_40.Parent = KeyStart
+UICorner_56.Parent = KeyStart
 
 key.Name = "key"
 key.Parent = KeyStart
@@ -713,19 +957,19 @@ key.Text = ""
 key.TextColor3 = Color3.fromRGB(255, 255, 255)
 key.TextSize = 14.000
 
-UICorner_41.Parent = key
+UICorner_57.Parent = key
 
-TextLabel_15.Parent = KeyStart
-TextLabel_15.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_15.BackgroundTransparency = 1.000
-TextLabel_15.Position = UDim2.new(0.00361010898, 0, 1, 0)
-TextLabel_15.Size = UDim2.new(0, 272, 0, 50)
-TextLabel_15.Font = Enum.Font.SourceSans
-TextLabel_15.Text = "If You Use The Exploit Pls Join Discord For View if it Patched Or No"
-TextLabel_15.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_15.TextScaled = true
-TextLabel_15.TextSize = 14.000
-TextLabel_15.TextWrapped = true
+TextLabel_17.Parent = KeyStart
+TextLabel_17.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_17.BackgroundTransparency = 1.000
+TextLabel_17.Position = UDim2.new(0.00361010898, 0, 1, 0)
+TextLabel_17.Size = UDim2.new(0, 272, 0, 50)
+TextLabel_17.Font = Enum.Font.SourceSans
+TextLabel_17.Text = "If You Use The Exploit Pls Join Discord For View if it Patched Or No"
+TextLabel_17.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_17.TextScaled = true
+TextLabel_17.TextSize = 14.000
+TextLabel_17.TextWrapped = true
 
 ConfirmKey.Name = "ConfirmKey"
 ConfirmKey.Parent = KeyStart
@@ -737,7 +981,7 @@ ConfirmKey.Text = "Confirm Key!"
 ConfirmKey.TextColor3 = Color3.fromRGB(255, 255, 255)
 ConfirmKey.TextSize = 14.000
 
-UICorner_42.Parent = ConfirmKey
+UICorner_58.Parent = ConfirmKey
 
 GetKey.Name = "GetKey"
 GetKey.Parent = KeyStart
@@ -749,31 +993,31 @@ GetKey.Text = "Get Key(Copy Discord link!"
 GetKey.TextColor3 = Color3.fromRGB(255, 255, 255)
 GetKey.TextSize = 14.000
 
-UICorner_43.Parent = GetKey
+UICorner_59.Parent = GetKey
 
-TextLabel_16.Parent = KeyStart
-TextLabel_16.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_16.BackgroundTransparency = 1.000
-TextLabel_16.Position = UDim2.new(0.0180505421, 0, -0.344594598, 0)
-TextLabel_16.Size = UDim2.new(0, 272, 0, 50)
-TextLabel_16.Font = Enum.Font.SourceSans
-TextLabel_16.Text = "Key Login!"
-TextLabel_16.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_16.TextScaled = true
-TextLabel_16.TextSize = 14.000
-TextLabel_16.TextWrapped = true
+TextLabel_18.Parent = KeyStart
+TextLabel_18.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_18.BackgroundTransparency = 1.000
+TextLabel_18.Position = UDim2.new(0.0180505421, 0, -0.344594598, 0)
+TextLabel_18.Size = UDim2.new(0, 272, 0, 50)
+TextLabel_18.Font = Enum.Font.SourceSans
+TextLabel_18.Text = "Key Login!"
+TextLabel_18.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_18.TextScaled = true
+TextLabel_18.TextSize = 14.000
+TextLabel_18.TextWrapped = true
 
 -- Scripts:
 
-local function MBCC_fake_script() -- Close.LocalScript 
+local function LZUUZKW_fake_script() -- Close.LocalScript 
 	local script = Instance.new('LocalScript', Close)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		script.Parent.Parent.Parent.Start.Visible = false
 	end)
 end
-coroutine.wrap(MBCC_fake_script)()
-local function AZHNSUW_fake_script() -- Mini.LocalScript 
+coroutine.wrap(LZUUZKW_fake_script)()
+local function HLEFAFL_fake_script() -- Mini.LocalScript 
 	local script = Instance.new('LocalScript', Mini)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -788,8 +1032,8 @@ local function AZHNSUW_fake_script() -- Mini.LocalScript
 		script.Parent.Parent.Mini.Visible = false
 	end)
 end
-coroutine.wrap(AZHNSUW_fake_script)()
-local function JMQS_fake_script() -- Home.LocalScript 
+coroutine.wrap(HLEFAFL_fake_script)()
+local function WYHSF_fake_script() -- Home.LocalScript 
 	local script = Instance.new('LocalScript', Home)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -807,9 +1051,13 @@ local function JMQS_fake_script() -- Home.LocalScript
 	script.Parent.MouseButton1Click:Connect(function()
 		script.Parent.Parent.Parent.HouseScroll.Visible = false
 	end)
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.FunScroll.Visible = false
+	end)
 end
-coroutine.wrap(JMQS_fake_script)()
-local function TINCK_fake_script() -- Avatar.LocalScript 
+coroutine.wrap(WYHSF_fake_script)()
+local function FTFGY_fake_script() -- Avatar.LocalScript 
 	local script = Instance.new('LocalScript', Avatar)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -827,9 +1075,13 @@ local function TINCK_fake_script() -- Avatar.LocalScript
 	script.Parent.MouseButton1Click:Connect(function()
 		script.Parent.Parent.Parent.HouseScroll.Visible = false
 	end)
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.FunScroll.Visible = false
+	end)
 end
-coroutine.wrap(TINCK_fake_script)()
-local function BKVV_fake_script() -- Car.LocalScript 
+coroutine.wrap(FTFGY_fake_script)()
+local function CBRIM_fake_script() -- Car.LocalScript 
 	local script = Instance.new('LocalScript', Car)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -847,9 +1099,13 @@ local function BKVV_fake_script() -- Car.LocalScript
 	script.Parent.MouseButton1Click:Connect(function()
 		script.Parent.Parent.Parent.HouseScroll.Visible = false
 	end)
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.FunScroll.Visible = false
+	end)
 end
-coroutine.wrap(BKVV_fake_script)()
-local function OOYN_fake_script() -- House.LocalScript 
+coroutine.wrap(CBRIM_fake_script)()
+local function LWAK_fake_script() -- House.LocalScript 
 	local script = Instance.new('LocalScript', House)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -867,15 +1123,43 @@ local function OOYN_fake_script() -- House.LocalScript
 	script.Parent.MouseButton1Click:Connect(function()
 		script.Parent.Parent.Parent.HouseScroll.Visible = true
 	end)
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.FunScroll.Visible = false
+	end)
 end
-coroutine.wrap(OOYN_fake_script)()
-local function WKTTTF_fake_script() -- Name.LocalScript 
+coroutine.wrap(LWAK_fake_script)()
+local function PVSO_fake_script() -- Fun.LocalScript 
+	local script = Instance.new('LocalScript', Fun)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.HomeScroll.Visible = false
+	end)
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.AvatarScroll.Visible = false
+	end)
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.CarScroll.Visible = false
+	end)
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.HouseScroll.Visible = false
+	end)
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.FunScroll.Visible = true
+	end)
+end
+coroutine.wrap(PVSO_fake_script)()
+local function DYKXA_fake_script() -- Name.LocalScript 
 	local script = Instance.new('LocalScript', Name)
 
 	script.Parent.Text = game.Players.LocalPlayer.Name
 end
-coroutine.wrap(WKTTTF_fake_script)()
-local function UOTX_fake_script() -- ImageLabel.GetThunbnail 
+coroutine.wrap(DYKXA_fake_script)()
+local function YWLDSM_fake_script() -- ImageLabel.GetThunbnail 
 	local script = Instance.new('LocalScript', ImageLabel)
 
 	local Players = game:GetService("Players")
@@ -893,8 +1177,8 @@ local function UOTX_fake_script() -- ImageLabel.GetThunbnail
 	imageLabel.Image = content
 	imageLabel.Size = UDim2.new(0, 100, 0, 100)
 end
-coroutine.wrap(UOTX_fake_script)()
-local function UKQQIVZ_fake_script() -- JoinDiscord.LocalScript 
+coroutine.wrap(YWLDSM_fake_script)()
+local function ZLBKCEA_fake_script() -- JoinDiscord.LocalScript 
 	local script = Instance.new('LocalScript', JoinDiscord)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -907,8 +1191,8 @@ local function UKQQIVZ_fake_script() -- JoinDiscord.LocalScript
 		})
 	end)
 end
-coroutine.wrap(UKQQIVZ_fake_script)()
-local function GBBM_fake_script() -- CrashGame.LocalScript 
+coroutine.wrap(ZLBKCEA_fake_script)()
+local function MKWXFC_fake_script() -- CrashGame.LocalScript 
 	local script = Instance.new('LocalScript', CrashGame)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -954,567 +1238,594 @@ local function GBBM_fake_script() -- CrashGame.LocalScript
 		Event:InvokeServer(A_1, A_2)
 	end)
 end
-coroutine.wrap(GBBM_fake_script)()
-local function LXRMUA_fake_script() -- ValidateHouseChange.LocalScript 
+coroutine.wrap(MKWXFC_fake_script)()
+local function KXIBPUI_fake_script() -- ValidateHouseChange.LocalScript 
 	local script = Instance.new('LocalScript', ValidateHouseChange)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		local A_1 = (PlotChoose.Text)
-		local A_2 = "BeachHouse"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.LoadHouse
-		Event:InvokeServer(A_1, A_2)
-		wait(0.9)
-		local A_1 = (PlotChoose.Text)
-		local A_2 = "Botanical"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.LoadHouse
-		Event:InvokeServer(A_1, A_2)
-		wait(0.9)
-		local A_1 = (PlotChoose.Text)
-		local A_2 = "Bungalow"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.LoadHouse
-		Event:InvokeServer(A_1, A_2)
+		_G.SpamChangeHouse = true
+		
+		while _G.SpamChangeHouse == true do
+			local A_1 = (PlotChoose.Text)
+			local A_2 = "BeachHouse"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.LoadHouse
+			Event:InvokeServer(A_1, A_2)
+			wait(0.9)
+			local A_1 = (PlotChoose.Text)
+			local A_2 = "Botanical"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.LoadHouse
+			Event:InvokeServer(A_1, A_2)
+			wait(0.9)
+			local A_1 = (PlotChoose.Text)
+			local A_2 = "Bungalow"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.LoadHouse
+			Event:InvokeServer(A_1, A_2)
+		end
 	end)
 end
-coroutine.wrap(LXRMUA_fake_script)()
-local function UIPWBQ_fake_script() -- SpamLight.LocalScript 
+coroutine.wrap(KXIBPUI_fake_script)()
+local function MKONN_fake_script() -- ValidateHouseChange.LocalScript 
+	local script = Instance.new('LocalScript', ValidateHouseChange)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.ValidateHouseChange2.Visible = true
+		script.Parent.Parent.ValidateHouseChange.Visible = false
+	end)
+end
+coroutine.wrap(MKONN_fake_script)()
+local function YANR_fake_script() -- ValidateHouseChange2.LocalScript 
+	local script = Instance.new('LocalScript', ValidateHouseChange2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.SpamChangeHouse = false
+	
+		while _G.SpamChangeHouse == true do
+			local A_1 = (PlotChoose.Text)
+			local A_2 = "BeachHouse"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.LoadHouse
+			Event:InvokeServer(A_1, A_2)
+			wait(0.9)
+			local A_1 = (PlotChoose.Text)
+			local A_2 = "Botanical"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.LoadHouse
+			Event:InvokeServer(A_1, A_2)
+			wait(0.9)
+			local A_1 = (PlotChoose.Text)
+			local A_2 = "Bungalow"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.LoadHouse
+			Event:InvokeServer(A_1, A_2)
+		end
+	end)
+end
+coroutine.wrap(YANR_fake_script)()
+local function HIPK_fake_script() -- ValidateHouseChange2.LocalScript 
+	local script = Instance.new('LocalScript', ValidateHouseChange2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.ValidateHouseChange.Visible = true
+		script.Parent.Parent.ValidateHouseChange2.Visible = false
+	end)
+end
+coroutine.wrap(HIPK_fake_script)()
+local function KSRZWT_fake_script() -- ValidateNotifi.LocalScript 
+	local script = Instance.new('LocalScript', ValidateNotifi)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.SpamNotif = true
+		
+		while _G.SpamNotif == true do
+			wait(0.1)
+			local A_1 = game:GetService("Players").(PlayerChoose.Text)
+			local A_2 = 0
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.ChangePlayerPermissionLevel
+			Event:InvokeServer(A_1, A_2)
+			wait(0.1)
+			local A_1 = game:GetService("Players").(PlayerChoose.Text)
+			local A_2 = 0
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.ChangePlayerPermissionLevel
+			Event:InvokeServer(A_1, A_2)
+		end
+	end)
+end
+coroutine.wrap(KSRZWT_fake_script)()
+local function AKNX_fake_script() -- ValidateNotifi.LocalScript 
+	local script = Instance.new('LocalScript', ValidateNotifi)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.ValidateNotifi2.Visible = true
+		script.Parent.Parent.ValidateNotifi.Visible = false
+	end)
+end
+coroutine.wrap(AKNX_fake_script)()
+local function NJMBCB_fake_script() -- ValidateNotifi2.LocalScript 
+	local script = Instance.new('LocalScript', ValidateNotifi2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.SpamNotif = false
+	
+		while _G.SpamNotif == true do
+			wait(0.1)
+			local A_1 = game:GetService("Players").(PlayerChoose.Text)
+			local A_2 = 0
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.ChangePlayerPermissionLevel
+			Event:InvokeServer(A_1, A_2)
+			wait(0.1)
+			local A_1 = game:GetService("Players").(PlayerChoose.Text)
+			local A_2 = 0
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.ChangePlayerPermissionLevel
+			Event:InvokeServer(A_1, A_2)
+		end
+	end)
+end
+coroutine.wrap(NJMBCB_fake_script)()
+local function QDIGMD_fake_script() -- ValidateNotifi2.LocalScript 
+	local script = Instance.new('LocalScript', ValidateNotifi2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.ValidateNotifi.Visible = true
+		script.Parent.Parent.ValidateNotifi2.Visible = false
+	end)
+end
+coroutine.wrap(QDIGMD_fake_script)()
+local function AIZU_fake_script() -- SpamHalo.LocalScript 
+	local script = Instance.new('LocalScript', SpamHalo)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.SpamDecorate = true
+	
+		while _G.SpamDecorate == true do
+			wait(0.1)
+			local A_1 = "Decorate"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.CallHouseMethod
+			Event:InvokeServer(A_1)
+			wait(0.1)
+			local A_1 = "Decorate"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.CallHouseMethod
+			Event:InvokeServer(A_1)
+		end
+	end)
+end
+coroutine.wrap(AIZU_fake_script)()
+local function UKHSJC_fake_script() -- SpamHalo.LocalScript 
+	local script = Instance.new('LocalScript', SpamHalo)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.SpamHalo2.Visible = true
+		script.Parent.Parent.SpamHalo.Visible = false
+	end)
+end
+coroutine.wrap(UKHSJC_fake_script)()
+local function KKRBEJJ_fake_script() -- SpamHalo2.LocalScript 
+	local script = Instance.new('LocalScript', SpamHalo2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.SpamDecorate = false
+	
+		while _G.SpamDecorate == true do
+			wait(0.1)
+			local A_1 = "Decorate"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.CallHouseMethod
+			Event:InvokeServer(A_1)
+			wait(0.1)
+			local A_1 = "Decorate"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.CallHouseMethod
+			Event:InvokeServer(A_1)
+		end
+	end)
+end
+coroutine.wrap(KKRBEJJ_fake_script)()
+local function RRAQ_fake_script() -- SpamHalo2.LocalScript 
+	local script = Instance.new('LocalScript', SpamHalo2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.SpamHalo.Visible = true
+		script.Parent.Parent.SpamHalo2.Visible = false
+	end)
+end
+coroutine.wrap(RRAQ_fake_script)()
+local function PBCTVHS_fake_script() -- SpamLight.LocalScript 
 	local script = Instance.new('LocalScript', SpamLight)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		game.StarterGui:SetCore("SendNotification", {
-			Title = "WARNING!";
-			Text = "IS NOT PERMANENT YOU NEED TO REPLY THE BUTTON";
-			Icon = "";
-			Duration = "2";
-		})
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
-		wait(0.2)
-		local A_1 = "Headlights"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1)
+		_G.SpamLight = true
+	
+		while _G.SpamLight == true do
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait()
+		end
+	end)	
+	
+end
+coroutine.wrap(PBCTVHS_fake_script)()
+local function QVWIYF_fake_script() -- SpamLight.LocalScript 
+	local script = Instance.new('LocalScript', SpamLight)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.SpamLight2.Visible = true
+		script.Parent.Parent.SpamLight.Visible = false
 	end)
 end
-coroutine.wrap(UIPWBQ_fake_script)()
-local function VTPHRBX_fake_script() -- RedAndGreenCar.LocalScript 
+coroutine.wrap(QVWIYF_fake_script)()
+local function ECXILQC_fake_script() -- RedAndGreenCar.LocalScript 
 	local script = Instance.new('LocalScript', RedAndGreenCar)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		game.StarterGui:SetCore("SendNotification", {
-			Title = "WARNING!";
-			Text = "IS NOT PERMANENT YOU NEED TO REPLY THE BUTTON";
-			Icon = "";
-			Duration = "2";
-		})
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(0.0943778, 1, 0.389796)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.2)
-		local A_1 = "SetColor"
-		local A_2 = Color3.new(1, 0.196456, 0)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
-		Event:FireServer(A_1, A_2)
+		_G.SpamColor = true
+	
+		while _G.SpamColor == true do
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(0.0943778, 1, 0.389796)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(1, 0.196456, 0)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(0.0943778, 1, 0.389796)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(1, 0.196456, 0)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(0.0943778, 1, 0.389796)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(1, 0.196456, 0)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(0.0943778, 1, 0.389796)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(1, 0.196456, 0)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(0.0943778, 1, 0.389796)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(1, 0.196456, 0)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(0.0943778, 1, 0.389796)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait()
+		end
 	end)
 end
-coroutine.wrap(VTPHRBX_fake_script)()
-local function RGLQE_fake_script() -- SpamSpawnCar.LocalScript 
+coroutine.wrap(ECXILQC_fake_script)()
+local function SOCZNP_fake_script() -- RedAndGreenCar.LocalScript 
+	local script = Instance.new('LocalScript', RedAndGreenCar)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.RedAndGreenCar.Visible = false
+		script.Parent.Parent.RedAndGreenCar2.Visible = true
+	end)
+end
+coroutine.wrap(SOCZNP_fake_script)()
+local function ONCSIPO_fake_script() -- SpamLight2.LocalScript 
+	local script = Instance.new('LocalScript', SpamLight2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.SpamLight = false
+	
+		while _G.SpamLight == true do
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.2)
+			local A_1 = "Headlights"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait()
+		end
+	end)
+	
+end
+coroutine.wrap(ONCSIPO_fake_script)()
+local function NJNRTB_fake_script() -- SpamLight2.LocalScript 
+	local script = Instance.new('LocalScript', SpamLight2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.SpamLight2.Visible = false
+		script.Parent.Parent.SpamLight.Visible = true
+	end)
+end
+coroutine.wrap(NJNRTB_fake_script)()
+local function YUCNPU_fake_script() -- RedAndGreenCar2.LocalScript 
+	local script = Instance.new('LocalScript', RedAndGreenCar2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.SpamColor = false
+	
+		while _G.SpamColor == true do
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(0.0943778, 1, 0.389796)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(1, 0.196456, 0)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(0.0943778, 1, 0.389796)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(1, 0.196456, 0)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(0.0943778, 1, 0.389796)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(1, 0.196456, 0)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(0.0943778, 1, 0.389796)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(1, 0.196456, 0)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(0.0943778, 1, 0.389796)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(1, 0.196456, 0)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.2)
+			local A_1 = "SetColor"
+			local A_2 = Color3.new(0.0943778, 1, 0.389796)
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1, A_2)
+			wait()
+		end
+	end)
+end
+coroutine.wrap(YUCNPU_fake_script)()
+local function GVCY_fake_script() -- RedAndGreenCar2.LocalScript 
+	local script = Instance.new('LocalScript', RedAndGreenCar2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.RedAndGreenCar.Visible = true
+		script.Parent.Parent.RedAndGreenCar2.Visible = false
+	end)
+end
+coroutine.wrap(GVCY_fake_script)()
+local function QSHSRL_fake_script() -- SpamSpawnCar.LocalScript 
 	local script = Instance.new('LocalScript', SpamSpawnCar)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		wait(1)
-		local A_1 = "Convertible"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Lambo"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Merc"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Police"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Tesla"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "VWBus"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Z8"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Convertible"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Lambo"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Merc"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Police"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Tesla"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "VWBus"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Z8"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Convertible"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Lambo"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Merc"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Police"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Tesla"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "VWBus"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Z8"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Convertible"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Lambo"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Merc"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Police"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Tesla"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "VWBus"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Z8"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Convertible"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Lambo"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Merc"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Police"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Tesla"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "VWBus"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
-		wait(1)
-		local A_1 = "Z8"
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
-		Event:InvokeServer(A_1)
+		_G.SpamSpawnCar = true
+	
+		while _G.SpamSpawnCar == true do
+			wait(1)
+			local A_1 = "Lambo"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
+			Event:InvokeServer(A_1)
+			wait(1)
+			local A_1 = "Lambo"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
+			Event:InvokeServer(A_1)
+		end
 	end)
 end
-coroutine.wrap(RGLQE_fake_script)()
-local function VRKMAKF_fake_script() -- ValidateName.LocalScript 
+coroutine.wrap(QSHSRL_fake_script)()
+local function DENGLPH_fake_script() -- SpamSpawnCar.LocalScript 
+	local script = Instance.new('LocalScript', SpamSpawnCar)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.SpamSpawnCar.Visible = false
+		script.Parent.Parent.SpamSpawnCar2.Visible = true
+	end)
+end
+coroutine.wrap(DENGLPH_fake_script)()
+local function CZALCCV_fake_script() -- SpamSpawnCar2.LocalScript 
+	local script = Instance.new('LocalScript', SpamSpawnCar2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.SpamSpawnCar = false
+	
+		while _G.SpamSpawnCar == true do
+			wait(1)
+			local A_1 = "Lambo"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
+			Event:InvokeServer(A_1)
+			wait(1)
+			local A_1 = "Lambo"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RF.SpawnVehicle
+			Event:InvokeServer(A_1)
+		end
+	end)
+end
+coroutine.wrap(CZALCCV_fake_script)()
+local function BVNLM_fake_script() -- SpamSpawnCar2.LocalScript 
+	local script = Instance.new('LocalScript', SpamSpawnCar2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.SpamSpawnCar.Visible = true
+		script.Parent.Parent.SpamSpawnCar2.Visible = false
+	end)
+end
+coroutine.wrap(BVNLM_fake_script)()
+local function RMRKSJD_fake_script() -- ValidateName.LocalScript 
 	local script = Instance.new('LocalScript', ValidateName)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		local A_1 = "ChangeInfo"
-		local A_2 = (NameBox1.Text)
-		local A_3 = ""
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2, A_3)
-		wait(0.2)
-		local A_1 = "ChangeInfo"
-		local A_2 = (NameBox2.Text)
-		local A_3 = ""
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2, A_3)
-		wait(0.2)
-		local A_1 = "ChangeInfo"
-		local A_2 = (NameBox3.Text)
-		local A_3 = ""
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2, A_3)
-		local A_1 = "ChangeInfo"
-		local A_2 = (NameBox1.Text)
-		local A_3 = ""
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2, A_3)
-		wait(0.2)
-		local A_1 = "ChangeInfo"
-		local A_2 = (NameBox2.Text)
-		local A_3 = ""
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2, A_3)
-		wait(0.2)
-		local A_1 = "ChangeInfo"
-		local A_2 = (NameBox3.Text)
-		local A_3 = ""
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2, A_3)
+		_G.SpamChangeName = true
+		
+			while _G.SpamChangeName == true do
+				local A_1 = "ChangeInfo"
+				local A_2 = (NameBox1.Text)
+				local A_3 = ""
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2, A_3)
+				wait(0.2)
+				local A_1 = "ChangeInfo"
+				local A_2 = (NameBox2.Text)
+				local A_3 = ""
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2, A_3)
+				wait(0.2)
+				local A_1 = "ChangeInfo"
+				local A_2 = (NameBox3.Text)
+				local A_3 = ""
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2, A_3)
+				local A_1 = "ChangeInfo"
+				local A_2 = (NameBox1.Text)
+				local A_3 = ""
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2, A_3)
+				wait(0.2)
+				local A_1 = "ChangeInfo"
+				local A_2 = (NameBox2.Text)
+				local A_3 = ""
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2, A_3)
+				wait(0.2)
+				local A_1 = "ChangeInfo"
+				local A_2 = (NameBox3.Text)
+				local A_3 = ""
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2, A_3)	
+		end
 	end)
 end
-coroutine.wrap(VRKMAKF_fake_script)()
-local function DIGCZ_fake_script() -- RespawnValidate.LocalScript 
+coroutine.wrap(RMRKSJD_fake_script)()
+local function QKPSHTG_fake_script() -- ValidateName.LocalScript 
+	local script = Instance.new('LocalScript', ValidateName)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.ValidateName2.Visible = true
+		script.Parent.Parent.ValidateName.Visible = false
+	end)
+end
+coroutine.wrap(QKPSHTG_fake_script)()
+local function XKACOSB_fake_script() -- RespawnValidate.LocalScript 
 	local script = Instance.new('LocalScript', RespawnValidate)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1522,625 +1833,200 @@ local function DIGCZ_fake_script() -- RespawnValidate.LocalScript
 		Event:InvokeServer()
 	end)
 end
-coroutine.wrap(DIGCZ_fake_script)()
-local function HKPJ_fake_script() -- BlackAndBasique.LocalScript 
+coroutine.wrap(XKACOSB_fake_script)()
+local function EJFF_fake_script() -- BlackAndBasique.LocalScript 
 	local script = Instance.new('LocalScript', BlackAndBasique)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		game.StarterGui:SetCore("SendNotification", {
-			Title = "WARNING!";
-			Text = "IM NOT RACISTE IM JUST MAKE IT AND MORE COMING SOON!";
-			Icon = "";
-			Duration = "2";
-		})
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.352941, 0.298039, 0.258824)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		local A_1 = "ChangeSkinTone"
-		local A_2 = Color3.new(0.917647, 0.721569, 0.572549)
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
+		_G.RainbowSkin = true
+	
+			while _G.RainbowSkin == true do
+				local A_1 = "ChangeSkinTone"
+				local A_2 = Color3.new(0.141445, 0.0513167, 0.913725)
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2)
+				wait(0.1)
+				local A_1 = "ChangeSkinTone"
+				local A_2 = Color3.new(1, 0.205365, 0)
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2)
+				wait(0.1)
+				local A_1 = "ChangeSkinTone"
+				local A_2 = Color3.new(0.984033, 0, 0.931542)
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2)
+				wait(0.1)
+				local A_1 = "ChangeSkinTone"
+				local A_2 = Color3.new(0.98123, 0.914376, 0.0652853)
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2)	
+		end
 	end)
 end
-coroutine.wrap(HKPJ_fake_script)()
-local function BOIRWST_fake_script() -- SpamChangeHat.LocalScript 
-	local script = Instance.new('LocalScript', SpamChangeHat)
+coroutine.wrap(EJFF_fake_script)()
+local function ZNYQT_fake_script() -- BlackAndBasique.LocalScript 
+	local script = Instance.new('LocalScript', BlackAndBasique)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = "WearAccessory"
-		local A_2 = 846805497
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
+		script.Parent.Parent.BlackAndBasique2.Visible = true
+		script.Parent.Parent.BlackAndBasique.Visible = false
 	end)
 end
-coroutine.wrap(BOIRWST_fake_script)()
-local function IBXZ_fake_script() -- SpamChatMessage.LocalScript 
+coroutine.wrap(ZNYQT_fake_script)()
+local function LDSD_fake_script() -- ValidateName2.LocalScript 
+	local script = Instance.new('LocalScript', ValidateName2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.SpamChangeName = false
+		
+			while _G.SpamChangeName == true do
+				local A_1 = "ChangeInfo"
+				local A_2 = (NameBox1.Text)
+				local A_3 = ""
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2, A_3)
+				wait(0.2)
+				local A_1 = "ChangeInfo"
+				local A_2 = (NameBox2.Text)
+				local A_3 = ""
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2, A_3)
+				wait(0.2)
+				local A_1 = "ChangeInfo"
+				local A_2 = (NameBox3.Text)
+				local A_3 = ""
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2, A_3)
+				local A_1 = "ChangeInfo"
+				local A_2 = (NameBox1.Text)
+				local A_3 = ""
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2, A_3)
+				wait(0.2)
+				local A_1 = "ChangeInfo"
+				local A_2 = (NameBox2.Text)
+				local A_3 = ""
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2, A_3)
+				wait(0.2)
+				local A_1 = "ChangeInfo"
+				local A_2 = (NameBox3.Text)
+				local A_3 = ""
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2, A_3)	
+		end
+	end)
+end
+coroutine.wrap(LDSD_fake_script)()
+local function NWMNU_fake_script() -- ValidateName2.LocalScript 
+	local script = Instance.new('LocalScript', ValidateName2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.ValidateName.Visible = true
+		script.Parent.Parent.ValidateName2.Visible = false
+	end)
+end
+coroutine.wrap(NWMNU_fake_script)()
+local function GWYGLFS_fake_script() -- BlackAndBasique2.LocalScript 
+	local script = Instance.new('LocalScript', BlackAndBasique2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.RainbowSkin = false
+		
+			while _G.RainbowSkin == true do
+				local A_1 = "ChangeSkinTone"
+				local A_2 = Color3.new(0.141445, 0.0513167, 0.913725)
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2)
+				wait(0.1)
+				local A_1 = "ChangeSkinTone"
+				local A_2 = Color3.new(1, 0.205365, 0)
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2)
+				wait(0.1)
+				local A_1 = "ChangeSkinTone"
+				local A_2 = Color3.new(0.984033, 0, 0.931542)
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2)
+				wait(0.1)
+				local A_1 = "ChangeSkinTone"
+				local A_2 = Color3.new(0.98123, 0.914376, 0.0652853)
+				local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+				Event:InvokeServer(A_1, A_2)	
+		end
+	end)
+end
+coroutine.wrap(GWYGLFS_fake_script)()
+local function UEKAPK_fake_script() -- BlackAndBasique2.LocalScript 
+	local script = Instance.new('LocalScript', BlackAndBasique2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.BlackAndBasique.Visible = true
+		script.Parent.Parent.BlackAndBasique2.Visible = false
+	end)
+end
+coroutine.wrap(UEKAPK_fake_script)()
+local function JLUDADP_fake_script() -- SpamChatMessage.LocalScript 
 	local script = Instance.new('LocalScript', SpamChatMessage)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
-		wait(0.1)
-		local A_1 = (SpamChatMessageBox.Text)
-		local A_2 = "All"
-		local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
-		Event:FireServer(A_1, A_2)
+		_G.SpamChatMessage = true
+	
+		while _G.SpamChatMessage == true do
+			wait(0.1)
+			local A_1 = (SpamChatMessageBox.Text)
+			local A_2 = "All"
+			local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.1)
+			local A_1 = (SpamChatMessageBox.Text)
+			local A_2 = "All"
+			local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+			Event:FireServer(A_1, A_2)
+		end
 	end)
 end
-coroutine.wrap(IBXZ_fake_script)()
-local function GOBDJIH_fake_script() -- ChangeHat.LocalScript 
-	local script = Instance.new('LocalScript', ChangeHat)
+coroutine.wrap(JLUDADP_fake_script)()
+local function XAXXGY_fake_script() -- SpamChatMessage.LocalScript 
+	local script = Instance.new('LocalScript', SpamChatMessage)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		local A_1 = "WearItems"
-		local A_2 = 
-			{
-				[1] = 
-				{
-					["Id"] = (HatIDChangeHat.Text)
-				}
-			}
-		local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
-		Event:InvokeServer(A_1, A_2)
+		script.Parent.Parent.SpamChatMessage.Visible = false
+		script.Parent.Parent.SpamChatMessage2.Visible = true
 	end)
 end
-coroutine.wrap(GOBDJIH_fake_script)()
-local function JMWYLS_fake_script() -- FreeKorblox.LocalScript 
+coroutine.wrap(XAXXGY_fake_script)()
+local function KCFY_fake_script() -- SpamChatMessage2.LocalScript 
+	local script = Instance.new('LocalScript', SpamChatMessage2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.SpamChatMessage = false
+		
+		while _G.SpamChatMessage == true do
+			wait(0.1)
+			local A_1 = (SpamChatMessageBox.Text)
+			local A_2 = "All"
+			local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+			Event:FireServer(A_1, A_2)
+			wait(0.1)
+			local A_1 = (SpamChatMessageBox.Text)
+			local A_2 = "All"
+			local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+			Event:FireServer(A_1, A_2)
+		end
+	end)
+end
+coroutine.wrap(KCFY_fake_script)()
+local function JVVXN_fake_script() -- SpamChatMessage2.LocalScript 
+	local script = Instance.new('LocalScript', SpamChatMessage2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.SpamChatMessage.Visible = true
+		script.Parent.Parent.SpamChatMessage2.Visible = false
+	end)
+end
+coroutine.wrap(JVVXN_fake_script)()
+local function COUNQQ_fake_script() -- FreeKorblox.LocalScript 
 	local script = Instance.new('LocalScript', FreeKorblox)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2156,8 +2042,8 @@ local function JMWYLS_fake_script() -- FreeKorblox.LocalScript
 		Event:InvokeServer(A_1, A_2)
 	end)
 end
-coroutine.wrap(JMWYLS_fake_script)()
-local function IADLZ_fake_script() -- FreeHeadless.LocalScript 
+coroutine.wrap(COUNQQ_fake_script)()
+local function TWAJKF_fake_script() -- FreeHeadless.LocalScript 
 	local script = Instance.new('LocalScript', FreeHeadless)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2173,8 +2059,126 @@ local function IADLZ_fake_script() -- FreeHeadless.LocalScript
 		Event:InvokeServer(A_1, A_2)
 	end)
 end
-coroutine.wrap(IADLZ_fake_script)()
-local function CDFBML_fake_script() -- Plus.LocalScript 
+coroutine.wrap(TWAJKF_fake_script)()
+local function MDBL_fake_script() -- SpamSound.LocalScript 
+	local script = Instance.new('LocalScript', SpamSound)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.SpamSound = true
+	
+		while _G.SpamSound == true do
+			wait(0.1)
+			local A_1 = "Lock"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.1)
+			local A_1 = "Lock"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait()
+		end
+	end)
+end
+coroutine.wrap(MDBL_fake_script)()
+local function NMCSIA_fake_script() -- SpamSound.LocalScript 
+	local script = Instance.new('LocalScript', SpamSound)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.SpamSound2.Visible = true
+		script.Parent.Parent.SpamSound.Visible = false
+	end)
+end
+coroutine.wrap(NMCSIA_fake_script)()
+local function WGES_fake_script() -- SpamSound2.LocalScript 
+	local script = Instance.new('LocalScript', SpamSound2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.SpamSound = false
+	
+		while _G.SpamSound == true do
+			wait(0.1)
+			local A_1 = "Lock"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait(0.1)
+			local A_1 = "Lock"
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.VehicleService.RE.VehicleRequest
+			Event:FireServer(A_1)
+			wait()
+		end
+	end)
+end
+coroutine.wrap(WGES_fake_script)()
+local function MUXCTY_fake_script() -- SpamSound2.LocalScript 
+	local script = Instance.new('LocalScript', SpamSound2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.SpamSound2.Visible = false
+		script.Parent.Parent.SpamSound.Visible = true
+	end)
+end
+coroutine.wrap(MUXCTY_fake_script)()
+local function JVLPESM_fake_script() -- SpamChangeHat.LocalScript 
+	local script = Instance.new('LocalScript', SpamChangeHat)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.SpamChangeHat = true
+		
+		while _G.SpamChangeHat == true do
+			wait(0.1)
+			local A_1 = "WearAccessory"
+			local A_2 = 846805497
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+			Event:InvokeServer(A_1, A_2)
+			wait(0.1)
+			local A_1 = "WearAccessory"
+			local A_2 = 846805497
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+			Event:InvokeServer(A_1, A_2)
+		end
+	end)
+end
+coroutine.wrap(JVLPESM_fake_script)()
+local function GFQAIT_fake_script() -- SpamChangeHat.LocalScript 
+	local script = Instance.new('LocalScript', SpamChangeHat)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.SpamChangeHat.Visible = false
+		script.Parent.Parent.SpamChangeHat2.Visible = true
+	end)
+end
+coroutine.wrap(GFQAIT_fake_script)()
+local function XSMNXF_fake_script() -- SpamChangeHat2.LocalScript 
+	local script = Instance.new('LocalScript', SpamChangeHat2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.SpamChangeHat = false
+		
+		while _G.SpamChangeHat == true do
+			wait(0.1)
+			local A_1 = "WearAccessory"
+			local A_2 = 846805497
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+			Event:InvokeServer(A_1, A_2)
+			wait(0.1)
+			local A_1 = "WearAccessory"
+			local A_2 = 846805497
+			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.CharacterService.RF.EditorCall
+			Event:InvokeServer(A_1, A_2)
+		end
+	end)
+end
+coroutine.wrap(XSMNXF_fake_script)()
+local function MFESJUZ_fake_script() -- SpamChangeHat2.LocalScript 
+	local script = Instance.new('LocalScript', SpamChangeHat2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.SpamChangeHat.Visible = true
+		script.Parent.Parent.SpamChangeHat2.Visible = false
+	end)
+end
+coroutine.wrap(MFESJUZ_fake_script)()
+local function LXFO_fake_script() -- Plus.LocalScript 
 	local script = Instance.new('LocalScript', Plus)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2189,15 +2193,15 @@ local function CDFBML_fake_script() -- Plus.LocalScript
 		script.Parent.Parent.Mini.Visible = true
 	end)
 end
-coroutine.wrap(CDFBML_fake_script)()
-local function JGBH_fake_script() -- Start.LocalScript 
+coroutine.wrap(LXFO_fake_script)()
+local function FYJMWZJ_fake_script() -- Start.LocalScript 
 	local script = Instance.new('LocalScript', Start)
 
 	script.Parent.Active = true
 	script.Parent.Draggable = true
 end
-coroutine.wrap(JGBH_fake_script)()
-local function XTAKP_fake_script() -- ConfirmKey.LocalScript 
+coroutine.wrap(FYJMWZJ_fake_script)()
+local function XOKZNHF_fake_script() -- ConfirmKey.LocalScript 
 	local script = Instance.new('LocalScript', ConfirmKey)
 
 	local key = script.Parent.Parent.key
@@ -2218,13 +2222,12 @@ local function XTAKP_fake_script() -- ConfirmKey.LocalScript
 	end)
 	
 end
-coroutine.wrap(XTAKP_fake_script)()
-local function UAGR_fake_script() -- GetKey.LocalScript 
+coroutine.wrap(XOKZNHF_fake_script)()
+local function BIKK_fake_script() -- GetKey.LocalScript 
 	local script = Instance.new('LocalScript', GetKey)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		setclipboard("https://discord.gg/XbtYhNZCaZ")
 	end)
 end
-coroutine.wrap(UAGR_fake_script)()
-                                                                                                                                                                                                                                                            
+coroutine.wrap(BIKK_fake_script)()
