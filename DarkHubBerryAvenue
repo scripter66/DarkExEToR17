@@ -40,103 +40,89 @@ local ValidateHouseChange2 = Instance.new("TextButton")
 local UICorner_11 = Instance.new("UICorner")
 local PlotChoose = Instance.new("TextBox")
 local UICorner_12 = Instance.new("UICorner")
-local TextLabel_5 = Instance.new("TextLabel")
-local UICorner_13 = Instance.new("UICorner")
-local ValidateNotifi = Instance.new("TextButton")
-local UICorner_14 = Instance.new("UICorner")
-local ValidateNotifi2 = Instance.new("TextButton")
-local UICorner_15 = Instance.new("UICorner")
-local PlayerChoose = Instance.new("TextBox")
-local UICorner_16 = Instance.new("UICorner")
-local TextLabel_6 = Instance.new("TextLabel")
-local UICorner_17 = Instance.new("UICorner")
-local SpamHalo = Instance.new("TextButton")
-local UICorner_18 = Instance.new("UICorner")
-local SpamHalo2 = Instance.new("TextButton")
-local UICorner_19 = Instance.new("UICorner")
 local CarScroll = Instance.new("ScrollingFrame")
-local UICorner_20 = Instance.new("UICorner")
-local TextLabel_7 = Instance.new("TextLabel")
-local UICorner_21 = Instance.new("UICorner")
+local UICorner_13 = Instance.new("UICorner")
+local TextLabel_5 = Instance.new("TextLabel")
+local UICorner_14 = Instance.new("UICorner")
 local SpamLight = Instance.new("TextButton")
-local UICorner_22 = Instance.new("UICorner")
+local UICorner_15 = Instance.new("UICorner")
 local RedAndGreenCar = Instance.new("TextButton")
-local UICorner_23 = Instance.new("UICorner")
+local UICorner_16 = Instance.new("UICorner")
 local SpamLight2 = Instance.new("TextButton")
-local UICorner_24 = Instance.new("UICorner")
+local UICorner_17 = Instance.new("UICorner")
 local RedAndGreenCar2 = Instance.new("TextButton")
-local UICorner_25 = Instance.new("UICorner")
-local TextLabel_8 = Instance.new("TextLabel")
-local UICorner_26 = Instance.new("UICorner")
-local TextLabel_9 = Instance.new("TextLabel")
-local UICorner_27 = Instance.new("UICorner")
+local UICorner_18 = Instance.new("UICorner")
+local TextLabel_6 = Instance.new("TextLabel")
+local UICorner_19 = Instance.new("UICorner")
+local TextLabel_7 = Instance.new("TextLabel")
+local UICorner_20 = Instance.new("UICorner")
 local SpamSpawnCar = Instance.new("TextButton")
-local UICorner_28 = Instance.new("UICorner")
+local UICorner_21 = Instance.new("UICorner")
 local SpamSpawnCar2 = Instance.new("TextButton")
-local UICorner_29 = Instance.new("UICorner")
+local UICorner_22 = Instance.new("UICorner")
 local AvatarScroll = Instance.new("ScrollingFrame")
-local UICorner_30 = Instance.new("UICorner")
-local TextLabel_10 = Instance.new("TextLabel")
-local UICorner_31 = Instance.new("UICorner")
+local UICorner_23 = Instance.new("UICorner")
+local TextLabel_8 = Instance.new("TextLabel")
+local UICorner_24 = Instance.new("UICorner")
 local ValidateName = Instance.new("TextButton")
-local UICorner_32 = Instance.new("UICorner")
+local UICorner_25 = Instance.new("UICorner")
 local RespawnValidate = Instance.new("TextButton")
-local UICorner_33 = Instance.new("UICorner")
+local UICorner_26 = Instance.new("UICorner")
 local BlackAndBasique = Instance.new("TextButton")
-local UICorner_34 = Instance.new("UICorner")
+local UICorner_27 = Instance.new("UICorner")
 local ValidateName2 = Instance.new("TextButton")
-local UICorner_35 = Instance.new("UICorner")
+local UICorner_28 = Instance.new("UICorner")
 local BlackAndBasique2 = Instance.new("TextButton")
-local UICorner_36 = Instance.new("UICorner")
+local UICorner_29 = Instance.new("UICorner")
 local NameBox2 = Instance.new("TextBox")
-local UICorner_37 = Instance.new("UICorner")
+local UICorner_30 = Instance.new("UICorner")
 local NameBox3 = Instance.new("TextBox")
-local UICorner_38 = Instance.new("UICorner")
-local TextLabel_11 = Instance.new("TextLabel")
-local UICorner_39 = Instance.new("UICorner")
+local UICorner_31 = Instance.new("UICorner")
+local TextLabel_9 = Instance.new("TextLabel")
+local UICorner_32 = Instance.new("UICorner")
 local NameBox1 = Instance.new("TextBox")
-local UICorner_40 = Instance.new("UICorner")
-local TextLabel_12 = Instance.new("TextLabel")
-local UICorner_41 = Instance.new("UICorner")
-local TextLabel_13 = Instance.new("TextLabel")
-local UICorner_42 = Instance.new("UICorner")
+local UICorner_33 = Instance.new("UICorner")
+local TextLabel_10 = Instance.new("TextLabel")
+local UICorner_34 = Instance.new("UICorner")
+local TextLabel_11 = Instance.new("TextLabel")
+local UICorner_35 = Instance.new("UICorner")
 local SpamChatMessage = Instance.new("TextButton")
-local UICorner_43 = Instance.new("UICorner")
+local UICorner_36 = Instance.new("UICorner")
 local SpamChatMessageBox = Instance.new("TextBox")
-local UICorner_44 = Instance.new("UICorner")
+local UICorner_37 = Instance.new("UICorner")
 local SpamChatMessage2 = Instance.new("TextButton")
+local UICorner_38 = Instance.new("UICorner")
+local TextLabel_12 = Instance.new("TextLabel")
+local UICorner_39 = Instance.new("UICorner")
+local FreeKorblox = Instance.new("TextButton")
+local UICorner_40 = Instance.new("UICorner")
+local FreeHeadless = Instance.new("TextButton")
+local UICorner_41 = Instance.new("UICorner")
+local FunScroll = Instance.new("ScrollingFrame")
+local UICorner_42 = Instance.new("UICorner")
+local TextLabel_13 = Instance.new("TextLabel")
+local UICorner_43 = Instance.new("UICorner")
+local SpamSound = Instance.new("TextButton")
+local UICorner_44 = Instance.new("UICorner")
+local SpamSound2 = Instance.new("TextButton")
 local UICorner_45 = Instance.new("UICorner")
 local TextLabel_14 = Instance.new("TextLabel")
 local UICorner_46 = Instance.new("UICorner")
-local FreeKorblox = Instance.new("TextButton")
-local UICorner_47 = Instance.new("UICorner")
-local FreeHeadless = Instance.new("TextButton")
-local UICorner_48 = Instance.new("UICorner")
-local FunScroll = Instance.new("ScrollingFrame")
-local UICorner_49 = Instance.new("UICorner")
-local TextLabel_15 = Instance.new("TextLabel")
-local UICorner_50 = Instance.new("UICorner")
-local SpamSound = Instance.new("TextButton")
-local UICorner_51 = Instance.new("UICorner")
-local SpamSound2 = Instance.new("TextButton")
-local UICorner_52 = Instance.new("UICorner")
-local TextLabel_16 = Instance.new("TextLabel")
-local UICorner_53 = Instance.new("UICorner")
 local SpamChangeHat = Instance.new("TextButton")
-local UICorner_54 = Instance.new("UICorner")
+local UICorner_47 = Instance.new("UICorner")
 local SpamChangeHat2 = Instance.new("TextButton")
-local UICorner_55 = Instance.new("UICorner")
+local UICorner_48 = Instance.new("UICorner")
 local Plus = Instance.new("TextButton")
 local KeyStart = Instance.new("Frame")
-local UICorner_56 = Instance.new("UICorner")
+local UICorner_49 = Instance.new("UICorner")
 local key = Instance.new("TextBox")
-local UICorner_57 = Instance.new("UICorner")
-local TextLabel_17 = Instance.new("TextLabel")
+local UICorner_50 = Instance.new("UICorner")
+local TextLabel_15 = Instance.new("TextLabel")
 local ConfirmKey = Instance.new("TextButton")
-local UICorner_58 = Instance.new("UICorner")
+local UICorner_51 = Instance.new("UICorner")
 local GetKey = Instance.new("TextButton")
-local UICorner_59 = Instance.new("UICorner")
-local TextLabel_18 = Instance.new("TextLabel")
+local UICorner_52 = Instance.new("UICorner")
+local TextLabel_16 = Instance.new("TextLabel")
 
 --Properties:
 
@@ -407,91 +393,6 @@ PlotChoose.TextSize = 14.000
 
 UICorner_12.Parent = PlotChoose
 
-TextLabel_5.Parent = HouseScroll
-TextLabel_5.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_5.Position = UDim2.new(0.0883116871, 0, 0.100536615, 0)
-TextLabel_5.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_5.Font = Enum.Font.SourceSans
-TextLabel_5.Text = "Spam Notification"
-TextLabel_5.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_5.TextSize = 14.000
-
-UICorner_13.Parent = TextLabel_5
-
-ValidateNotifi.Name = "ValidateNotifi"
-ValidateNotifi.Parent = TextLabel_5
-ValidateNotifi.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
-ValidateNotifi.Position = UDim2.new(-0.000241614878, 0, 2.59452558, 0)
-ValidateNotifi.Size = UDim2.new(0, 301, 0, 31)
-ValidateNotifi.Font = Enum.Font.SourceSans
-ValidateNotifi.Text = "Spam Notification Player!"
-ValidateNotifi.TextColor3 = Color3.fromRGB(255, 255, 255)
-ValidateNotifi.TextSize = 14.000
-
-UICorner_14.Parent = ValidateNotifi
-
-ValidateNotifi2.Name = "ValidateNotifi2"
-ValidateNotifi2.Parent = TextLabel_5
-ValidateNotifi2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
-ValidateNotifi2.Position = UDim2.new(-0.00356387394, 0, 2.59452558, 0)
-ValidateNotifi2.Size = UDim2.new(0, 301, 0, 31)
-ValidateNotifi2.Visible = false
-ValidateNotifi2.Font = Enum.Font.SourceSans
-ValidateNotifi2.Text = "Spam Notification Player!"
-ValidateNotifi2.TextColor3 = Color3.fromRGB(255, 85, 0)
-ValidateNotifi2.TextSize = 14.000
-
-UICorner_15.Parent = ValidateNotifi2
-
-PlayerChoose.Name = "PlayerChoose"
-PlayerChoose.Parent = HouseScroll
-PlayerChoose.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
-PlayerChoose.Position = UDim2.new(0.0857142881, 0, 0.12997508, 0)
-PlayerChoose.Size = UDim2.new(0, 301, 0, 31)
-PlayerChoose.Font = Enum.Font.SourceSans
-PlayerChoose.PlaceholderText = "Enter Text Here!"
-PlayerChoose.Text = ""
-PlayerChoose.TextColor3 = Color3.fromRGB(255, 255, 255)
-PlayerChoose.TextSize = 14.000
-
-UICorner_16.Parent = PlayerChoose
-
-TextLabel_6.Parent = HouseScroll
-TextLabel_6.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_6.Position = UDim2.new(0.0857142881, 0, 0.196083173, 0)
-TextLabel_6.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_6.Font = Enum.Font.SourceSans
-TextLabel_6.Text = "Spam Halloween Deco"
-TextLabel_6.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_6.TextSize = 14.000
-
-UICorner_17.Parent = TextLabel_6
-
-SpamHalo.Name = "SpamHalo"
-SpamHalo.Parent = TextLabel_6
-SpamHalo.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
-SpamHalo.Position = UDim2.new(0.00308064418, 0, 1.29452562, 0)
-SpamHalo.Size = UDim2.new(0, 301, 0, 31)
-SpamHalo.Font = Enum.Font.SourceSans
-SpamHalo.Text = "Spam Halloween Deco"
-SpamHalo.TextColor3 = Color3.fromRGB(255, 255, 255)
-SpamHalo.TextSize = 14.000
-
-UICorner_18.Parent = SpamHalo
-
-SpamHalo2.Name = "SpamHalo2"
-SpamHalo2.Parent = TextLabel_6
-SpamHalo2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
-SpamHalo2.Position = UDim2.new(0.00308064418, 0, 1.29452562, 0)
-SpamHalo2.Size = UDim2.new(0, 301, 0, 31)
-SpamHalo2.Visible = false
-SpamHalo2.Font = Enum.Font.SourceSans
-SpamHalo2.Text = "Spam Halloween Deco"
-SpamHalo2.TextColor3 = Color3.fromRGB(255, 85, 0)
-SpamHalo2.TextSize = 14.000
-
-UICorner_19.Parent = SpamHalo2
-
 CarScroll.Name = "CarScroll"
 CarScroll.Parent = ScriptLaunched
 CarScroll.Active = true
@@ -501,21 +402,21 @@ CarScroll.Position = UDim2.new(0.250972718, 0, 0.0283400789, 0)
 CarScroll.Size = UDim2.new(0, 385, 0, 240)
 CarScroll.Visible = false
 
-UICorner_20.Parent = CarScroll
+UICorner_13.Parent = CarScroll
 
-TextLabel_7.Parent = CarScroll
-TextLabel_7.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_7.Position = UDim2.new(0.0961038917, 0, 0.0244232565, 0)
-TextLabel_7.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_7.Font = Enum.Font.SourceSans
-TextLabel_7.Text = "Spam Car Light"
-TextLabel_7.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_7.TextSize = 14.000
+TextLabel_5.Parent = CarScroll
+TextLabel_5.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_5.Position = UDim2.new(0.0961038917, 0, 0.0244232565, 0)
+TextLabel_5.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_5.Font = Enum.Font.SourceSans
+TextLabel_5.Text = "Spam Car Light"
+TextLabel_5.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_5.TextSize = 14.000
 
-UICorner_21.Parent = TextLabel_7
+UICorner_14.Parent = TextLabel_5
 
 SpamLight.Name = "SpamLight"
-SpamLight.Parent = TextLabel_7
+SpamLight.Parent = TextLabel_5
 SpamLight.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 SpamLight.Position = UDim2.new(-0.000241614878, 0, 1.22785878, 0)
 SpamLight.Size = UDim2.new(0, 301, 0, 31)
@@ -524,10 +425,10 @@ SpamLight.Text = "Spam Lights"
 SpamLight.TextColor3 = Color3.fromRGB(255, 255, 255)
 SpamLight.TextSize = 14.000
 
-UICorner_22.Parent = SpamLight
+UICorner_15.Parent = SpamLight
 
 RedAndGreenCar.Name = "RedAndGreenCar"
-RedAndGreenCar.Parent = TextLabel_7
+RedAndGreenCar.Parent = TextLabel_5
 RedAndGreenCar.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 RedAndGreenCar.Position = UDim2.new(-0.000241614878, 0, 3.66119242, 0)
 RedAndGreenCar.Size = UDim2.new(0, 301, 0, 31)
@@ -536,10 +437,10 @@ RedAndGreenCar.Text = "Red and Green Now!!!"
 RedAndGreenCar.TextColor3 = Color3.fromRGB(255, 255, 255)
 RedAndGreenCar.TextSize = 14.000
 
-UICorner_23.Parent = RedAndGreenCar
+UICorner_16.Parent = RedAndGreenCar
 
 SpamLight2.Name = "SpamLight2"
-SpamLight2.Parent = TextLabel_7
+SpamLight2.Parent = TextLabel_5
 SpamLight2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 SpamLight2.Position = UDim2.new(-0.000241614878, 0, 1.22785878, 0)
 SpamLight2.Size = UDim2.new(0, 301, 0, 31)
@@ -549,10 +450,10 @@ SpamLight2.Text = "Spam Lights"
 SpamLight2.TextColor3 = Color3.fromRGB(255, 85, 0)
 SpamLight2.TextSize = 14.000
 
-UICorner_24.Parent = SpamLight2
+UICorner_17.Parent = SpamLight2
 
 RedAndGreenCar2.Name = "RedAndGreenCar2"
-RedAndGreenCar2.Parent = TextLabel_7
+RedAndGreenCar2.Parent = TextLabel_5
 RedAndGreenCar2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 RedAndGreenCar2.Position = UDim2.new(-0.000241614878, 0, 3.66119242, 0)
 RedAndGreenCar2.Size = UDim2.new(0, 301, 0, 31)
@@ -562,32 +463,32 @@ RedAndGreenCar2.Text = "Red and Green Now!!!"
 RedAndGreenCar2.TextColor3 = Color3.fromRGB(255, 85, 0)
 RedAndGreenCar2.TextSize = 14.000
 
-UICorner_25.Parent = RedAndGreenCar2
+UICorner_18.Parent = RedAndGreenCar2
 
-TextLabel_8.Parent = CarScroll
-TextLabel_8.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_8.Position = UDim2.new(0.0961038917, 0, 0.172196507, 0)
-TextLabel_8.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_8.Font = Enum.Font.SourceSans
-TextLabel_8.Text = "Red And Green Car"
-TextLabel_8.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_8.TextSize = 21.000
+TextLabel_6.Parent = CarScroll
+TextLabel_6.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_6.Position = UDim2.new(0.0961038917, 0, 0.172196507, 0)
+TextLabel_6.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_6.Font = Enum.Font.SourceSans
+TextLabel_6.Text = "Red And Green Car"
+TextLabel_6.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_6.TextSize = 21.000
 
-UICorner_26.Parent = TextLabel_8
+UICorner_19.Parent = TextLabel_6
 
-TextLabel_9.Parent = CarScroll
-TextLabel_9.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_9.Position = UDim2.new(0.0961038917, 0, 0.324018419, 0)
-TextLabel_9.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_9.Font = Enum.Font.SourceSans
-TextLabel_9.Text = "Spam Car Spawn"
-TextLabel_9.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_9.TextSize = 14.000
+TextLabel_7.Parent = CarScroll
+TextLabel_7.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_7.Position = UDim2.new(0.0961038917, 0, 0.324018419, 0)
+TextLabel_7.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_7.Font = Enum.Font.SourceSans
+TextLabel_7.Text = "Spam Car Spawn"
+TextLabel_7.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_7.TextSize = 14.000
 
-UICorner_27.Parent = TextLabel_9
+UICorner_20.Parent = TextLabel_7
 
 SpamSpawnCar.Name = "SpamSpawnCar"
-SpamSpawnCar.Parent = TextLabel_9
+SpamSpawnCar.Parent = TextLabel_7
 SpamSpawnCar.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 SpamSpawnCar.Position = UDim2.new(-0.000241614878, 0, 1.26119232, 0)
 SpamSpawnCar.Size = UDim2.new(0, 301, 0, 31)
@@ -596,10 +497,10 @@ SpamSpawnCar.Text = "Spam Spawn Car"
 SpamSpawnCar.TextColor3 = Color3.fromRGB(255, 255, 255)
 SpamSpawnCar.TextSize = 14.000
 
-UICorner_28.Parent = SpamSpawnCar
+UICorner_21.Parent = SpamSpawnCar
 
 SpamSpawnCar2.Name = "SpamSpawnCar2"
-SpamSpawnCar2.Parent = TextLabel_9
+SpamSpawnCar2.Parent = TextLabel_7
 SpamSpawnCar2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 SpamSpawnCar2.Position = UDim2.new(-0.000241614878, 0, 1.26119232, 0)
 SpamSpawnCar2.Size = UDim2.new(0, 301, 0, 31)
@@ -609,7 +510,7 @@ SpamSpawnCar2.Text = "Spam Spawn Car"
 SpamSpawnCar2.TextColor3 = Color3.fromRGB(255, 85, 0)
 SpamSpawnCar2.TextSize = 14.000
 
-UICorner_29.Parent = SpamSpawnCar2
+UICorner_22.Parent = SpamSpawnCar2
 
 AvatarScroll.Name = "AvatarScroll"
 AvatarScroll.Parent = ScriptLaunched
@@ -622,21 +523,21 @@ AvatarScroll.Visible = false
 AvatarScroll.CanvasSize = UDim2.new(0, 0, 5, 0)
 AvatarScroll.VerticalScrollBarPosition = Enum.VerticalScrollBarPosition.Left
 
-UICorner_30.Parent = AvatarScroll
+UICorner_23.Parent = AvatarScroll
 
-TextLabel_10.Parent = AvatarScroll
-TextLabel_10.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_10.Position = UDim2.new(0.0909090862, 0, 0.00984835811, 0)
-TextLabel_10.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_10.Font = Enum.Font.SourceSans
-TextLabel_10.Text = "Spam Change Name"
-TextLabel_10.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_10.TextSize = 14.000
+TextLabel_8.Parent = AvatarScroll
+TextLabel_8.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_8.Position = UDim2.new(0.0909090862, 0, 0.00984835811, 0)
+TextLabel_8.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_8.Font = Enum.Font.SourceSans
+TextLabel_8.Text = "Spam Change Name"
+TextLabel_8.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_8.TextSize = 14.000
 
-UICorner_31.Parent = TextLabel_10
+UICorner_24.Parent = TextLabel_8
 
 ValidateName.Name = "ValidateName"
-ValidateName.Parent = TextLabel_10
+ValidateName.Parent = TextLabel_8
 ValidateName.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 ValidateName.Position = UDim2.new(0.00640290324, 0, 5.02785873, 0)
 ValidateName.Size = UDim2.new(0, 301, 0, 31)
@@ -645,10 +546,10 @@ ValidateName.Text = "Validate Name!"
 ValidateName.TextColor3 = Color3.fromRGB(255, 255, 255)
 ValidateName.TextSize = 14.000
 
-UICorner_32.Parent = ValidateName
+UICorner_25.Parent = ValidateName
 
 RespawnValidate.Name = "RespawnValidate"
-RespawnValidate.Parent = TextLabel_10
+RespawnValidate.Parent = TextLabel_8
 RespawnValidate.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 RespawnValidate.Position = UDim2.new(-0.000241614878, 0, 7.42785883, 0)
 RespawnValidate.Size = UDim2.new(0, 301, 0, 31)
@@ -657,10 +558,10 @@ RespawnValidate.Text = "Respawn Now"
 RespawnValidate.TextColor3 = Color3.fromRGB(255, 255, 255)
 RespawnValidate.TextSize = 14.000
 
-UICorner_33.Parent = RespawnValidate
+UICorner_26.Parent = RespawnValidate
 
 BlackAndBasique.Name = "BlackAndBasique"
-BlackAndBasique.Parent = TextLabel_10
+BlackAndBasique.Parent = TextLabel_8
 BlackAndBasique.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 BlackAndBasique.Position = UDim2.new(-0.000241614878, 0, 9.92785835, 0)
 BlackAndBasique.Size = UDim2.new(0, 301, 0, 31)
@@ -669,10 +570,10 @@ BlackAndBasique.Text = "Rainbow Skin"
 BlackAndBasique.TextColor3 = Color3.fromRGB(255, 255, 255)
 BlackAndBasique.TextSize = 14.000
 
-UICorner_34.Parent = BlackAndBasique
+UICorner_27.Parent = BlackAndBasique
 
 ValidateName2.Name = "ValidateName2"
-ValidateName2.Parent = TextLabel_10
+ValidateName2.Parent = TextLabel_8
 ValidateName2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 ValidateName2.Position = UDim2.new(0.00640290324, 0, 5.02785873, 0)
 ValidateName2.Size = UDim2.new(0, 301, 0, 31)
@@ -682,10 +583,10 @@ ValidateName2.Text = "Validate Name!"
 ValidateName2.TextColor3 = Color3.fromRGB(255, 85, 0)
 ValidateName2.TextSize = 14.000
 
-UICorner_35.Parent = ValidateName2
+UICorner_28.Parent = ValidateName2
 
 BlackAndBasique2.Name = "BlackAndBasique2"
-BlackAndBasique2.Parent = TextLabel_10
+BlackAndBasique2.Parent = TextLabel_8
 BlackAndBasique2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 BlackAndBasique2.Position = UDim2.new(-0.00688613346, 0, 9.92785835, 0)
 BlackAndBasique2.Size = UDim2.new(0, 301, 0, 31)
@@ -695,7 +596,7 @@ BlackAndBasique2.Text = "Rainbow Skin"
 BlackAndBasique2.TextColor3 = Color3.fromRGB(255, 85, 0)
 BlackAndBasique2.TextSize = 14.000
 
-UICorner_36.Parent = BlackAndBasique2
+UICorner_29.Parent = BlackAndBasique2
 
 NameBox2.Name = "NameBox2"
 NameBox2.Parent = AvatarScroll
@@ -708,7 +609,7 @@ NameBox2.Text = ""
 NameBox2.TextColor3 = Color3.fromRGB(255, 255, 255)
 NameBox2.TextSize = 14.000
 
-UICorner_37.Parent = NameBox2
+UICorner_30.Parent = NameBox2
 
 NameBox3.Name = "NameBox3"
 NameBox3.Parent = AvatarScroll
@@ -721,18 +622,18 @@ NameBox3.Text = ""
 NameBox3.TextColor3 = Color3.fromRGB(255, 255, 255)
 NameBox3.TextSize = 14.000
 
-UICorner_38.Parent = NameBox3
+UICorner_31.Parent = NameBox3
 
-TextLabel_11.Parent = AvatarScroll
-TextLabel_11.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_11.Position = UDim2.new(0.0961038843, 0, 0.160860479, 0)
-TextLabel_11.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_11.Font = Enum.Font.SourceSans
-TextLabel_11.Text = "Respawn"
-TextLabel_11.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_11.TextSize = 21.000
+TextLabel_9.Parent = AvatarScroll
+TextLabel_9.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_9.Position = UDim2.new(0.0961038843, 0, 0.160860479, 0)
+TextLabel_9.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_9.Font = Enum.Font.SourceSans
+TextLabel_9.Text = "Respawn"
+TextLabel_9.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_9.TextSize = 21.000
 
-UICorner_39.Parent = TextLabel_11
+UICorner_32.Parent = TextLabel_9
 
 NameBox1.Name = "NameBox1"
 NameBox1.Parent = AvatarScroll
@@ -745,32 +646,32 @@ NameBox1.Text = ""
 NameBox1.TextColor3 = Color3.fromRGB(255, 255, 255)
 NameBox1.TextSize = 14.000
 
-UICorner_40.Parent = NameBox1
+UICorner_33.Parent = NameBox1
 
-TextLabel_12.Parent = AvatarScroll
-TextLabel_12.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_12.Position = UDim2.new(0.0883116797, 0, 0.220779508, 0)
-TextLabel_12.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_12.Font = Enum.Font.SourceSans
-TextLabel_12.Text = "Skin"
-TextLabel_12.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_12.TextSize = 21.000
+TextLabel_10.Parent = AvatarScroll
+TextLabel_10.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_10.Position = UDim2.new(0.0883116797, 0, 0.220779508, 0)
+TextLabel_10.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_10.Font = Enum.Font.SourceSans
+TextLabel_10.Text = "Skin"
+TextLabel_10.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_10.TextSize = 21.000
 
-UICorner_41.Parent = TextLabel_12
+UICorner_34.Parent = TextLabel_10
 
-TextLabel_13.Parent = AvatarScroll
-TextLabel_13.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_13.Position = UDim2.new(0.0883116871, 0, 0.282722801, 0)
-TextLabel_13.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_13.Font = Enum.Font.SourceSans
-TextLabel_13.Text = "Spam Chat Message"
-TextLabel_13.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_13.TextSize = 14.000
+TextLabel_11.Parent = AvatarScroll
+TextLabel_11.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_11.Position = UDim2.new(0.0883116871, 0, 0.282722801, 0)
+TextLabel_11.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_11.Font = Enum.Font.SourceSans
+TextLabel_11.Text = "Spam Chat Message"
+TextLabel_11.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_11.TextSize = 14.000
 
-UICorner_42.Parent = TextLabel_13
+UICorner_35.Parent = TextLabel_11
 
 SpamChatMessage.Name = "SpamChatMessage"
-SpamChatMessage.Parent = TextLabel_13
+SpamChatMessage.Parent = TextLabel_11
 SpamChatMessage.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 SpamChatMessage.Position = UDim2.new(-0.000241614878, 0, 2.5278585, 0)
 SpamChatMessage.Size = UDim2.new(0, 301, 0, 31)
@@ -779,10 +680,10 @@ SpamChatMessage.Text = "Spam Chat Message"
 SpamChatMessage.TextColor3 = Color3.fromRGB(255, 255, 255)
 SpamChatMessage.TextSize = 14.000
 
-UICorner_43.Parent = SpamChatMessage
+UICorner_36.Parent = SpamChatMessage
 
 SpamChatMessageBox.Name = "SpamChatMessageBox"
-SpamChatMessageBox.Parent = TextLabel_13
+SpamChatMessageBox.Parent = TextLabel_11
 SpamChatMessageBox.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 SpamChatMessageBox.Position = UDim2.new(0.00308064185, 0, 1.23253918, 0)
 SpamChatMessageBox.Size = UDim2.new(0, 301, 0, 31)
@@ -792,10 +693,10 @@ SpamChatMessageBox.Text = ""
 SpamChatMessageBox.TextColor3 = Color3.fromRGB(255, 255, 255)
 SpamChatMessageBox.TextSize = 14.000
 
-UICorner_44.Parent = SpamChatMessageBox
+UICorner_37.Parent = SpamChatMessageBox
 
 SpamChatMessage2.Name = "SpamChatMessage2"
-SpamChatMessage2.Parent = TextLabel_13
+SpamChatMessage2.Parent = TextLabel_11
 SpamChatMessage2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 SpamChatMessage2.Position = UDim2.new(-0.000241614878, 0, 2.5278585, 0)
 SpamChatMessage2.Size = UDim2.new(0, 301, 0, 31)
@@ -805,21 +706,21 @@ SpamChatMessage2.Text = "Spam Chat Message"
 SpamChatMessage2.TextColor3 = Color3.fromRGB(255, 85, 0)
 SpamChatMessage2.TextSize = 14.000
 
-UICorner_45.Parent = SpamChatMessage2
+UICorner_38.Parent = SpamChatMessage2
 
-TextLabel_14.Parent = AvatarScroll
-TextLabel_14.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_14.Position = UDim2.new(0.0909090862, 0, 0.378269374, 0)
-TextLabel_14.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_14.Font = Enum.Font.SourceSans
-TextLabel_14.Text = "Change Hat"
-TextLabel_14.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_14.TextSize = 14.000
+TextLabel_12.Parent = AvatarScroll
+TextLabel_12.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_12.Position = UDim2.new(0.0909090862, 0, 0.378269374, 0)
+TextLabel_12.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_12.Font = Enum.Font.SourceSans
+TextLabel_12.Text = "Change Hat"
+TextLabel_12.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_12.TextSize = 14.000
 
-UICorner_46.Parent = TextLabel_14
+UICorner_39.Parent = TextLabel_12
 
 FreeKorblox.Name = "FreeKorblox"
-FreeKorblox.Parent = TextLabel_14
+FreeKorblox.Parent = TextLabel_12
 FreeKorblox.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 FreeKorblox.Position = UDim2.new(0.00308064418, 0, 1.32785857, 0)
 FreeKorblox.Size = UDim2.new(0, 301, 0, 31)
@@ -828,10 +729,10 @@ FreeKorblox.Text = "Korblox"
 FreeKorblox.TextColor3 = Color3.fromRGB(255, 255, 255)
 FreeKorblox.TextSize = 14.000
 
-UICorner_47.Parent = FreeKorblox
+UICorner_40.Parent = FreeKorblox
 
 FreeHeadless.Name = "FreeHeadless"
-FreeHeadless.Parent = TextLabel_14
+FreeHeadless.Parent = TextLabel_12
 FreeHeadless.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 FreeHeadless.Position = UDim2.new(-0.000241614878, 0, 2.62785864, 0)
 FreeHeadless.Size = UDim2.new(0, 301, 0, 31)
@@ -840,7 +741,7 @@ FreeHeadless.Text = "Headless"
 FreeHeadless.TextColor3 = Color3.fromRGB(255, 255, 255)
 FreeHeadless.TextSize = 14.000
 
-UICorner_48.Parent = FreeHeadless
+UICorner_41.Parent = FreeHeadless
 
 FunScroll.Name = "FunScroll"
 FunScroll.Parent = ScriptLaunched
@@ -851,21 +752,21 @@ FunScroll.Position = UDim2.new(0.250972718, 0, 0.0283400789, 0)
 FunScroll.Size = UDim2.new(0, 385, 0, 240)
 FunScroll.Visible = false
 
-UICorner_49.Parent = FunScroll
+UICorner_42.Parent = FunScroll
 
-TextLabel_15.Parent = FunScroll
-TextLabel_15.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_15.Position = UDim2.new(0.0961038917, 0, 0.0244232565, 0)
-TextLabel_15.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_15.Font = Enum.Font.SourceSans
-TextLabel_15.Text = "[FE]Spam Sound"
-TextLabel_15.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_15.TextSize = 14.000
+TextLabel_13.Parent = FunScroll
+TextLabel_13.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_13.Position = UDim2.new(0.0961038917, 0, 0.0244232565, 0)
+TextLabel_13.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_13.Font = Enum.Font.SourceSans
+TextLabel_13.Text = "[FE]Spam Sound"
+TextLabel_13.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_13.TextSize = 14.000
 
-UICorner_50.Parent = TextLabel_15
+UICorner_43.Parent = TextLabel_13
 
 SpamSound.Name = "SpamSound"
-SpamSound.Parent = TextLabel_15
+SpamSound.Parent = TextLabel_13
 SpamSound.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 SpamSound.Position = UDim2.new(-0.000241614878, 0, 1.22785878, 0)
 SpamSound.Size = UDim2.new(0, 301, 0, 31)
@@ -874,10 +775,10 @@ SpamSound.Text = "Spam Sound (need a car)"
 SpamSound.TextColor3 = Color3.fromRGB(255, 255, 255)
 SpamSound.TextSize = 14.000
 
-UICorner_51.Parent = SpamSound
+UICorner_44.Parent = SpamSound
 
 SpamSound2.Name = "SpamSound2"
-SpamSound2.Parent = TextLabel_15
+SpamSound2.Parent = TextLabel_13
 SpamSound2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 SpamSound2.Position = UDim2.new(-0.000241614878, 0, 1.22785878, 0)
 SpamSound2.Size = UDim2.new(0, 301, 0, 31)
@@ -887,21 +788,21 @@ SpamSound2.Text = "Spam Sound (need a car)"
 SpamSound2.TextColor3 = Color3.fromRGB(255, 85, 0)
 SpamSound2.TextSize = 14.000
 
-UICorner_52.Parent = SpamSound2
+UICorner_45.Parent = SpamSound2
 
-TextLabel_16.Parent = FunScroll
-TextLabel_16.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
-TextLabel_16.Position = UDim2.new(0.0961038917, 0, 0.173411086, 0)
-TextLabel_16.Size = UDim2.new(0, 301, 0, 30)
-TextLabel_16.Font = Enum.Font.SourceSans
-TextLabel_16.Text = "Spam Hat Change(ONLY ONE)"
-TextLabel_16.TextColor3 = Color3.fromRGB(0, 170, 255)
-TextLabel_16.TextSize = 14.000
+TextLabel_14.Parent = FunScroll
+TextLabel_14.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+TextLabel_14.Position = UDim2.new(0.0961038917, 0, 0.173411086, 0)
+TextLabel_14.Size = UDim2.new(0, 301, 0, 30)
+TextLabel_14.Font = Enum.Font.SourceSans
+TextLabel_14.Text = "Spam Hat Change(ONLY ONE)"
+TextLabel_14.TextColor3 = Color3.fromRGB(0, 170, 255)
+TextLabel_14.TextSize = 14.000
 
-UICorner_53.Parent = TextLabel_16
+UICorner_46.Parent = TextLabel_14
 
 SpamChangeHat.Name = "SpamChangeHat"
-SpamChangeHat.Parent = TextLabel_16
+SpamChangeHat.Parent = TextLabel_14
 SpamChangeHat.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 SpamChangeHat.Position = UDim2.new(-0.000241614878, 0, 1.19452524, 0)
 SpamChangeHat.Size = UDim2.new(0, 301, 0, 31)
@@ -910,10 +811,10 @@ SpamChangeHat.Text = "Spam Change Hat"
 SpamChangeHat.TextColor3 = Color3.fromRGB(255, 255, 255)
 SpamChangeHat.TextSize = 14.000
 
-UICorner_54.Parent = SpamChangeHat
+UICorner_47.Parent = SpamChangeHat
 
 SpamChangeHat2.Name = "SpamChangeHat2"
-SpamChangeHat2.Parent = TextLabel_16
+SpamChangeHat2.Parent = TextLabel_14
 SpamChangeHat2.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 SpamChangeHat2.Position = UDim2.new(-0.000241614878, 0, 1.19452524, 0)
 SpamChangeHat2.Size = UDim2.new(0, 301, 0, 31)
@@ -923,7 +824,7 @@ SpamChangeHat2.Text = "Spam Change Hat"
 SpamChangeHat2.TextColor3 = Color3.fromRGB(255, 85, 0)
 SpamChangeHat2.TextSize = 14.000
 
-UICorner_55.Parent = SpamChangeHat2
+UICorner_48.Parent = SpamChangeHat2
 
 Plus.Name = "Plus"
 Plus.Parent = Start
@@ -943,7 +844,7 @@ KeyStart.BackgroundColor3 = Color3.fromRGB(47, 47, 47)
 KeyStart.Position = UDim2.new(0.420933723, 0, 0.398765385, 0)
 KeyStart.Size = UDim2.new(0, 277, 0, 148)
 
-UICorner_56.Parent = KeyStart
+UICorner_49.Parent = KeyStart
 
 key.Name = "key"
 key.Parent = KeyStart
@@ -956,19 +857,19 @@ key.Text = ""
 key.TextColor3 = Color3.fromRGB(255, 255, 255)
 key.TextSize = 14.000
 
-UICorner_57.Parent = key
+UICorner_50.Parent = key
 
-TextLabel_17.Parent = KeyStart
-TextLabel_17.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_17.BackgroundTransparency = 1.000
-TextLabel_17.Position = UDim2.new(0.00361010898, 0, 1, 0)
-TextLabel_17.Size = UDim2.new(0, 272, 0, 50)
-TextLabel_17.Font = Enum.Font.SourceSans
-TextLabel_17.Text = "If You Use The Exploit Pls Join Discord For View if it Patched Or No"
-TextLabel_17.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_17.TextScaled = true
-TextLabel_17.TextSize = 14.000
-TextLabel_17.TextWrapped = true
+TextLabel_15.Parent = KeyStart
+TextLabel_15.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_15.BackgroundTransparency = 1.000
+TextLabel_15.Position = UDim2.new(0.00361010898, 0, 1, 0)
+TextLabel_15.Size = UDim2.new(0, 272, 0, 50)
+TextLabel_15.Font = Enum.Font.SourceSans
+TextLabel_15.Text = "If You Use The Exploit Pls Join Discord For View if it Patched Or No"
+TextLabel_15.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_15.TextScaled = true
+TextLabel_15.TextSize = 14.000
+TextLabel_15.TextWrapped = true
 
 ConfirmKey.Name = "ConfirmKey"
 ConfirmKey.Parent = KeyStart
@@ -980,7 +881,7 @@ ConfirmKey.Text = "Confirm Key!"
 ConfirmKey.TextColor3 = Color3.fromRGB(255, 255, 255)
 ConfirmKey.TextSize = 14.000
 
-UICorner_58.Parent = ConfirmKey
+UICorner_51.Parent = ConfirmKey
 
 GetKey.Name = "GetKey"
 GetKey.Parent = KeyStart
@@ -992,31 +893,31 @@ GetKey.Text = "Get Key(Copy Discord link!"
 GetKey.TextColor3 = Color3.fromRGB(255, 255, 255)
 GetKey.TextSize = 14.000
 
-UICorner_59.Parent = GetKey
+UICorner_52.Parent = GetKey
 
-TextLabel_18.Parent = KeyStart
-TextLabel_18.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_18.BackgroundTransparency = 1.000
-TextLabel_18.Position = UDim2.new(0.0180505421, 0, -0.344594598, 0)
-TextLabel_18.Size = UDim2.new(0, 272, 0, 50)
-TextLabel_18.Font = Enum.Font.SourceSans
-TextLabel_18.Text = "Key Login!"
-TextLabel_18.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_18.TextScaled = true
-TextLabel_18.TextSize = 14.000
-TextLabel_18.TextWrapped = true
+TextLabel_16.Parent = KeyStart
+TextLabel_16.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_16.BackgroundTransparency = 1.000
+TextLabel_16.Position = UDim2.new(0.0180505421, 0, -0.344594598, 0)
+TextLabel_16.Size = UDim2.new(0, 272, 0, 50)
+TextLabel_16.Font = Enum.Font.SourceSans
+TextLabel_16.Text = "Key Login!"
+TextLabel_16.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_16.TextScaled = true
+TextLabel_16.TextSize = 14.000
+TextLabel_16.TextWrapped = true
 
 -- Scripts:
 
-local function YTMDBS_fake_script() -- Close.LocalScript 
+local function CASR_fake_script() -- Close.LocalScript 
 	local script = Instance.new('LocalScript', Close)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		script.Parent.Parent.Parent.Start.Visible = false
 	end)
 end
-coroutine.wrap(YTMDBS_fake_script)()
-local function AMIE_fake_script() -- Mini.LocalScript 
+coroutine.wrap(CASR_fake_script)()
+local function NMTA_fake_script() -- Mini.LocalScript 
 	local script = Instance.new('LocalScript', Mini)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1031,8 +932,8 @@ local function AMIE_fake_script() -- Mini.LocalScript
 		script.Parent.Parent.Mini.Visible = false
 	end)
 end
-coroutine.wrap(AMIE_fake_script)()
-local function IYVUWOH_fake_script() -- Home.LocalScript 
+coroutine.wrap(NMTA_fake_script)()
+local function QASJB_fake_script() -- Home.LocalScript 
 	local script = Instance.new('LocalScript', Home)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1055,8 +956,8 @@ local function IYVUWOH_fake_script() -- Home.LocalScript
 		script.Parent.Parent.Parent.FunScroll.Visible = false
 	end)
 end
-coroutine.wrap(IYVUWOH_fake_script)()
-local function FCTX_fake_script() -- Avatar.LocalScript 
+coroutine.wrap(QASJB_fake_script)()
+local function WOGBJVG_fake_script() -- Avatar.LocalScript 
 	local script = Instance.new('LocalScript', Avatar)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1079,8 +980,8 @@ local function FCTX_fake_script() -- Avatar.LocalScript
 		script.Parent.Parent.Parent.FunScroll.Visible = false
 	end)
 end
-coroutine.wrap(FCTX_fake_script)()
-local function IEKU_fake_script() -- Car.LocalScript 
+coroutine.wrap(WOGBJVG_fake_script)()
+local function BRXNN_fake_script() -- Car.LocalScript 
 	local script = Instance.new('LocalScript', Car)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1103,8 +1004,8 @@ local function IEKU_fake_script() -- Car.LocalScript
 		script.Parent.Parent.Parent.FunScroll.Visible = false
 	end)
 end
-coroutine.wrap(IEKU_fake_script)()
-local function YIRNB_fake_script() -- House.LocalScript 
+coroutine.wrap(BRXNN_fake_script)()
+local function TYEXZMB_fake_script() -- House.LocalScript 
 	local script = Instance.new('LocalScript', House)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1127,8 +1028,8 @@ local function YIRNB_fake_script() -- House.LocalScript
 		script.Parent.Parent.Parent.FunScroll.Visible = false
 	end)
 end
-coroutine.wrap(YIRNB_fake_script)()
-local function DCMUC_fake_script() -- Fun.LocalScript 
+coroutine.wrap(TYEXZMB_fake_script)()
+local function NGJXITY_fake_script() -- Fun.LocalScript 
 	local script = Instance.new('LocalScript', Fun)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1151,14 +1052,14 @@ local function DCMUC_fake_script() -- Fun.LocalScript
 		script.Parent.Parent.Parent.FunScroll.Visible = true
 	end)
 end
-coroutine.wrap(DCMUC_fake_script)()
-local function IILGGPP_fake_script() -- Name.LocalScript 
+coroutine.wrap(NGJXITY_fake_script)()
+local function NHYXIR_fake_script() -- Name.LocalScript 
 	local script = Instance.new('LocalScript', Name)
 
 	script.Parent.Text = game.Players.LocalPlayer.Name
 end
-coroutine.wrap(IILGGPP_fake_script)()
-local function DJBPDU_fake_script() -- ImageLabel.GetThunbnail 
+coroutine.wrap(NHYXIR_fake_script)()
+local function BGFKE_fake_script() -- ImageLabel.GetThunbnail 
 	local script = Instance.new('LocalScript', ImageLabel)
 
 	local Players = game:GetService("Players")
@@ -1176,8 +1077,8 @@ local function DJBPDU_fake_script() -- ImageLabel.GetThunbnail
 	imageLabel.Image = content
 	imageLabel.Size = UDim2.new(0, 100, 0, 100)
 end
-coroutine.wrap(DJBPDU_fake_script)()
-local function EGJPHA_fake_script() -- JoinDiscord.LocalScript 
+coroutine.wrap(BGFKE_fake_script)()
+local function XNLCBVJ_fake_script() -- JoinDiscord.LocalScript 
 	local script = Instance.new('LocalScript', JoinDiscord)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1190,8 +1091,8 @@ local function EGJPHA_fake_script() -- JoinDiscord.LocalScript
 		})
 	end)
 end
-coroutine.wrap(EGJPHA_fake_script)()
-local function VFDWMO_fake_script() -- CrashGame.LocalScript 
+coroutine.wrap(XNLCBVJ_fake_script)()
+local function QIYK_fake_script() -- CrashGame.LocalScript 
 	local script = Instance.new('LocalScript', CrashGame)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1237,8 +1138,8 @@ local function VFDWMO_fake_script() -- CrashGame.LocalScript
 		Event:InvokeServer(A_1, A_2)
 	end)
 end
-coroutine.wrap(VFDWMO_fake_script)()
-local function MWSQVZR_fake_script() -- ValidateHouseChange.LocalScript 
+coroutine.wrap(QIYK_fake_script)()
+local function FDRIVWG_fake_script() -- ValidateHouseChange.LocalScript 
 	local script = Instance.new('LocalScript', ValidateHouseChange)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1262,8 +1163,8 @@ local function MWSQVZR_fake_script() -- ValidateHouseChange.LocalScript
 		end
 	end)
 end
-coroutine.wrap(MWSQVZR_fake_script)()
-local function YPKFJ_fake_script() -- ValidateHouseChange.LocalScript 
+coroutine.wrap(FDRIVWG_fake_script)()
+local function MPZRYM_fake_script() -- ValidateHouseChange.LocalScript 
 	local script = Instance.new('LocalScript', ValidateHouseChange)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1271,8 +1172,8 @@ local function YPKFJ_fake_script() -- ValidateHouseChange.LocalScript
 		script.Parent.Parent.ValidateHouseChange.Visible = false
 	end)
 end
-coroutine.wrap(YPKFJ_fake_script)()
-local function MUSIEK_fake_script() -- ValidateHouseChange2.LocalScript 
+coroutine.wrap(MPZRYM_fake_script)()
+local function OTHIZ_fake_script() -- ValidateHouseChange2.LocalScript 
 	local script = Instance.new('LocalScript', ValidateHouseChange2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1296,8 +1197,8 @@ local function MUSIEK_fake_script() -- ValidateHouseChange2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(MUSIEK_fake_script)()
-local function KHAF_fake_script() -- ValidateHouseChange2.LocalScript 
+coroutine.wrap(OTHIZ_fake_script)()
+local function BAINH_fake_script() -- ValidateHouseChange2.LocalScript 
 	local script = Instance.new('LocalScript', ValidateHouseChange2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1305,76 +1206,8 @@ local function KHAF_fake_script() -- ValidateHouseChange2.LocalScript
 		script.Parent.Parent.ValidateHouseChange2.Visible = false
 	end)
 end
-coroutine.wrap(KHAF_fake_script)()
-local function RXQI_fake_script() -- ValidateNotifi.LocalScript 
-	local script = Instance.new('LocalScript', ValidateNotifi)
-
-	script.Parent.MouseButton1Click:Connect(function()
-		_G.SpamNotif = true
-		
-		while _G.SpamNotif == true do
-			wait(0.1)
-			local A_1 = game:GetService("Players").(PlayerChoose.Text)
-			local A_2 = 0
-			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.ChangePlayerPermissionLevel
-			Event:InvokeServer(A_1, A_2)
-			wait(0.1)
-			local A_1 = game:GetService("Players").(PlayerChoose.Text)
-			local A_2 = 0
-			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.ChangePlayerPermissionLevel
-			Event:InvokeServer(A_1, A_2)
-		end
-	end)
-end
-coroutine.wrap(RXQI_fake_script)()
-local function AZJG_fake_script() -- ValidateNotifi.LocalScript 
-	local script = Instance.new('LocalScript', ValidateNotifi)
-
-	script.Parent.MouseButton1Click:Connect(function()
-		script.Parent.Parent.ValidateNotifi2.Visible = true
-		script.Parent.Parent.ValidateNotifi.Visible = false
-	end)
-end
-coroutine.wrap(AZJG_fake_script)()
-local function IMVNHTG_fake_script() -- ValidateNotifi2.LocalScript 
-	local script = Instance.new('LocalScript', ValidateNotifi2)
-
-	script.Parent.MouseButton1Click:Connect(function()
-		_G.SpamNotif = false
-	
-		while _G.SpamNotif == true do
-			wait(0.1)
-			local A_1 = game:GetService("Players").(PlayerChoose.Text)
-			local A_2 = 0
-			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.ChangePlayerPermissionLevel
-			Event:InvokeServer(A_1, A_2)
-			wait(0.1)
-			local A_1 = game:GetService("Players").(PlayerChoose.Text)
-			local A_2 = 0
-			local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.4"].knit.Services.HouseService.RF.ChangePlayerPermissionLevel
-			Event:InvokeServer(A_1, A_2)
-		end
-	end)
-end
-coroutine.wrap(IMVNHTG_fake_script)()
-local function LGFHO_fake_script() -- ValidateNotifi2.LocalScript 
-	local script = Instance.new('LocalScript', ValidateNotifi2)
-
-	script.Parent.MouseButton1Click:Connect(function()
-		script.Parent.Parent.ValidateNotifi.Visible = true
-		script.Parent.Parent.ValidateNotifi2.Visible = false
-	end)
-end
-coroutine.wrap(OUFIJES_fake_script)()
-local function ITLYQA_fake_script() -- SpamHalo.LocalScript 
-	local script = Instance.new('LocalScript', SpamHalo)
-
-	script.Parent.MouseButton1Click:Connect(function()
-		script.Parent.Parent.SpamHalo2.Visible = true
-		script.Parent.Parent.SpamHalo.Visible = false
-	end)
-end
-local function QXQEEZT_fake_script() -- SpamLight.LocalScript 
+coroutine.wrap(BAINH_fake_script)()
+local function OGYAKS_fake_script() -- SpamLight.LocalScript 
 	local script = Instance.new('LocalScript', SpamLight)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1434,8 +1267,8 @@ local function QXQEEZT_fake_script() -- SpamLight.LocalScript
 	end)	
 	
 end
-coroutine.wrap(QXQEEZT_fake_script)()
-local function NAKN_fake_script() -- SpamLight.LocalScript 
+coroutine.wrap(OGYAKS_fake_script)()
+local function SKAP_fake_script() -- SpamLight.LocalScript 
 	local script = Instance.new('LocalScript', SpamLight)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1443,8 +1276,8 @@ local function NAKN_fake_script() -- SpamLight.LocalScript
 		script.Parent.Parent.SpamLight.Visible = false
 	end)
 end
-coroutine.wrap(NAKN_fake_script)()
-local function YNUC_fake_script() -- RedAndGreenCar.LocalScript 
+coroutine.wrap(SKAP_fake_script)()
+local function MRMITBH_fake_script() -- RedAndGreenCar.LocalScript 
 	local script = Instance.new('LocalScript', RedAndGreenCar)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1510,8 +1343,8 @@ local function YNUC_fake_script() -- RedAndGreenCar.LocalScript
 		end
 	end)
 end
-coroutine.wrap(YNUC_fake_script)()
-local function TAVU_fake_script() -- RedAndGreenCar.LocalScript 
+coroutine.wrap(MRMITBH_fake_script)()
+local function NJIF_fake_script() -- RedAndGreenCar.LocalScript 
 	local script = Instance.new('LocalScript', RedAndGreenCar)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1519,8 +1352,8 @@ local function TAVU_fake_script() -- RedAndGreenCar.LocalScript
 		script.Parent.Parent.RedAndGreenCar2.Visible = true
 	end)
 end
-coroutine.wrap(TAVU_fake_script)()
-local function VYLUEA_fake_script() -- SpamLight2.LocalScript 
+coroutine.wrap(NJIF_fake_script)()
+local function PXLDUV_fake_script() -- SpamLight2.LocalScript 
 	local script = Instance.new('LocalScript', SpamLight2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1580,8 +1413,8 @@ local function VYLUEA_fake_script() -- SpamLight2.LocalScript
 	end)
 	
 end
-coroutine.wrap(VYLUEA_fake_script)()
-local function SSTO_fake_script() -- SpamLight2.LocalScript 
+coroutine.wrap(PXLDUV_fake_script)()
+local function YXWU_fake_script() -- SpamLight2.LocalScript 
 	local script = Instance.new('LocalScript', SpamLight2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1589,8 +1422,8 @@ local function SSTO_fake_script() -- SpamLight2.LocalScript
 		script.Parent.Parent.SpamLight.Visible = true
 	end)
 end
-coroutine.wrap(SSTO_fake_script)()
-local function RTNBUGA_fake_script() -- RedAndGreenCar2.LocalScript 
+coroutine.wrap(YXWU_fake_script)()
+local function GTERLU_fake_script() -- RedAndGreenCar2.LocalScript 
 	local script = Instance.new('LocalScript', RedAndGreenCar2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1656,8 +1489,8 @@ local function RTNBUGA_fake_script() -- RedAndGreenCar2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(RTNBUGA_fake_script)()
-local function GYNEK_fake_script() -- RedAndGreenCar2.LocalScript 
+coroutine.wrap(GTERLU_fake_script)()
+local function GTWE_fake_script() -- RedAndGreenCar2.LocalScript 
 	local script = Instance.new('LocalScript', RedAndGreenCar2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1665,8 +1498,8 @@ local function GYNEK_fake_script() -- RedAndGreenCar2.LocalScript
 		script.Parent.Parent.RedAndGreenCar2.Visible = false
 	end)
 end
-coroutine.wrap(GYNEK_fake_script)()
-local function VWYWFN_fake_script() -- SpamSpawnCar.LocalScript 
+coroutine.wrap(GTWE_fake_script)()
+local function KSUILHK_fake_script() -- SpamSpawnCar.LocalScript 
 	local script = Instance.new('LocalScript', SpamSpawnCar)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1684,8 +1517,8 @@ local function VWYWFN_fake_script() -- SpamSpawnCar.LocalScript
 		end
 	end)
 end
-coroutine.wrap(VWYWFN_fake_script)()
-local function RIRJML_fake_script() -- SpamSpawnCar.LocalScript 
+coroutine.wrap(KSUILHK_fake_script)()
+local function HVTVJL_fake_script() -- SpamSpawnCar.LocalScript 
 	local script = Instance.new('LocalScript', SpamSpawnCar)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1693,8 +1526,8 @@ local function RIRJML_fake_script() -- SpamSpawnCar.LocalScript
 		script.Parent.Parent.SpamSpawnCar2.Visible = true
 	end)
 end
-coroutine.wrap(RIRJML_fake_script)()
-local function IYKU_fake_script() -- SpamSpawnCar2.LocalScript 
+coroutine.wrap(HVTVJL_fake_script)()
+local function NJBQROM_fake_script() -- SpamSpawnCar2.LocalScript 
 	local script = Instance.new('LocalScript', SpamSpawnCar2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1712,8 +1545,8 @@ local function IYKU_fake_script() -- SpamSpawnCar2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(IYKU_fake_script)()
-local function QWGCSYW_fake_script() -- SpamSpawnCar2.LocalScript 
+coroutine.wrap(NJBQROM_fake_script)()
+local function QCHPKSH_fake_script() -- SpamSpawnCar2.LocalScript 
 	local script = Instance.new('LocalScript', SpamSpawnCar2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1721,8 +1554,8 @@ local function QWGCSYW_fake_script() -- SpamSpawnCar2.LocalScript
 		script.Parent.Parent.SpamSpawnCar2.Visible = false
 	end)
 end
-coroutine.wrap(QWGCSYW_fake_script)()
-local function LEKMDII_fake_script() -- ValidateName.LocalScript 
+coroutine.wrap(QCHPKSH_fake_script)()
+local function TRWEUVO_fake_script() -- ValidateName.LocalScript 
 	local script = Instance.new('LocalScript', ValidateName)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1766,8 +1599,8 @@ local function LEKMDII_fake_script() -- ValidateName.LocalScript
 		end
 	end)
 end
-coroutine.wrap(LEKMDII_fake_script)()
-local function NDKZ_fake_script() -- ValidateName.LocalScript 
+coroutine.wrap(TRWEUVO_fake_script)()
+local function GIVN_fake_script() -- ValidateName.LocalScript 
 	local script = Instance.new('LocalScript', ValidateName)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1775,8 +1608,8 @@ local function NDKZ_fake_script() -- ValidateName.LocalScript
 		script.Parent.Parent.ValidateName.Visible = false
 	end)
 end
-coroutine.wrap(NDKZ_fake_script)()
-local function KCBJ_fake_script() -- RespawnValidate.LocalScript 
+coroutine.wrap(GIVN_fake_script)()
+local function XQGZ_fake_script() -- RespawnValidate.LocalScript 
 	local script = Instance.new('LocalScript', RespawnValidate)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1784,8 +1617,8 @@ local function KCBJ_fake_script() -- RespawnValidate.LocalScript
 		Event:InvokeServer()
 	end)
 end
-coroutine.wrap(KCBJ_fake_script)()
-local function BXVRL_fake_script() -- BlackAndBasique.LocalScript 
+coroutine.wrap(XQGZ_fake_script)()
+local function PGKQZQA_fake_script() -- BlackAndBasique.LocalScript 
 	local script = Instance.new('LocalScript', BlackAndBasique)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1814,8 +1647,8 @@ local function BXVRL_fake_script() -- BlackAndBasique.LocalScript
 		end
 	end)
 end
-coroutine.wrap(BXVRL_fake_script)()
-local function JMONEA_fake_script() -- BlackAndBasique.LocalScript 
+coroutine.wrap(PGKQZQA_fake_script)()
+local function FQCAXN_fake_script() -- BlackAndBasique.LocalScript 
 	local script = Instance.new('LocalScript', BlackAndBasique)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1823,8 +1656,8 @@ local function JMONEA_fake_script() -- BlackAndBasique.LocalScript
 		script.Parent.Parent.BlackAndBasique.Visible = false
 	end)
 end
-coroutine.wrap(JMONEA_fake_script)()
-local function LLTNFN_fake_script() -- ValidateName2.LocalScript 
+coroutine.wrap(FQCAXN_fake_script)()
+local function STLRMNV_fake_script() -- ValidateName2.LocalScript 
 	local script = Instance.new('LocalScript', ValidateName2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1868,8 +1701,8 @@ local function LLTNFN_fake_script() -- ValidateName2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(LLTNFN_fake_script)()
-local function WOIYMVF_fake_script() -- ValidateName2.LocalScript 
+coroutine.wrap(STLRMNV_fake_script)()
+local function PYVOPH_fake_script() -- ValidateName2.LocalScript 
 	local script = Instance.new('LocalScript', ValidateName2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1877,8 +1710,8 @@ local function WOIYMVF_fake_script() -- ValidateName2.LocalScript
 		script.Parent.Parent.ValidateName2.Visible = false
 	end)
 end
-coroutine.wrap(WOIYMVF_fake_script)()
-local function CTXFJVT_fake_script() -- BlackAndBasique2.LocalScript 
+coroutine.wrap(PYVOPH_fake_script)()
+local function VZWX_fake_script() -- BlackAndBasique2.LocalScript 
 	local script = Instance.new('LocalScript', BlackAndBasique2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1907,8 +1740,8 @@ local function CTXFJVT_fake_script() -- BlackAndBasique2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(CTXFJVT_fake_script)()
-local function BGFU_fake_script() -- BlackAndBasique2.LocalScript 
+coroutine.wrap(VZWX_fake_script)()
+local function WPOS_fake_script() -- BlackAndBasique2.LocalScript 
 	local script = Instance.new('LocalScript', BlackAndBasique2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1916,8 +1749,8 @@ local function BGFU_fake_script() -- BlackAndBasique2.LocalScript
 		script.Parent.Parent.BlackAndBasique2.Visible = false
 	end)
 end
-coroutine.wrap(BGFU_fake_script)()
-local function NYCZ_fake_script() -- SpamChatMessage.LocalScript 
+coroutine.wrap(WPOS_fake_script)()
+local function IAHPDWN_fake_script() -- SpamChatMessage.LocalScript 
 	local script = Instance.new('LocalScript', SpamChatMessage)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1937,8 +1770,8 @@ local function NYCZ_fake_script() -- SpamChatMessage.LocalScript
 		end
 	end)
 end
-coroutine.wrap(NYCZ_fake_script)()
-local function XQXO_fake_script() -- SpamChatMessage.LocalScript 
+coroutine.wrap(IAHPDWN_fake_script)()
+local function QWDSNL_fake_script() -- SpamChatMessage.LocalScript 
 	local script = Instance.new('LocalScript', SpamChatMessage)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1946,8 +1779,8 @@ local function XQXO_fake_script() -- SpamChatMessage.LocalScript
 		script.Parent.Parent.SpamChatMessage2.Visible = true
 	end)
 end
-coroutine.wrap(XQXO_fake_script)()
-local function GFHOH_fake_script() -- SpamChatMessage2.LocalScript 
+coroutine.wrap(QWDSNL_fake_script)()
+local function KUTTBM_fake_script() -- SpamChatMessage2.LocalScript 
 	local script = Instance.new('LocalScript', SpamChatMessage2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1967,8 +1800,8 @@ local function GFHOH_fake_script() -- SpamChatMessage2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(GFHOH_fake_script)()
-local function AZZF_fake_script() -- SpamChatMessage2.LocalScript 
+coroutine.wrap(KUTTBM_fake_script)()
+local function EAKF_fake_script() -- SpamChatMessage2.LocalScript 
 	local script = Instance.new('LocalScript', SpamChatMessage2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1976,8 +1809,8 @@ local function AZZF_fake_script() -- SpamChatMessage2.LocalScript
 		script.Parent.Parent.SpamChatMessage2.Visible = false
 	end)
 end
-coroutine.wrap(AZZF_fake_script)()
-local function VNMC_fake_script() -- FreeKorblox.LocalScript 
+coroutine.wrap(EAKF_fake_script)()
+local function ANWD_fake_script() -- FreeKorblox.LocalScript 
 	local script = Instance.new('LocalScript', FreeKorblox)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1993,8 +1826,8 @@ local function VNMC_fake_script() -- FreeKorblox.LocalScript
 		Event:InvokeServer(A_1, A_2)
 	end)
 end
-coroutine.wrap(VNMC_fake_script)()
-local function PDTSNPK_fake_script() -- FreeHeadless.LocalScript 
+coroutine.wrap(ANWD_fake_script)()
+local function PUHE_fake_script() -- FreeHeadless.LocalScript 
 	local script = Instance.new('LocalScript', FreeHeadless)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2010,8 +1843,8 @@ local function PDTSNPK_fake_script() -- FreeHeadless.LocalScript
 		Event:InvokeServer(A_1, A_2)
 	end)
 end
-coroutine.wrap(PDTSNPK_fake_script)()
-local function YKXYEX_fake_script() -- SpamSound.LocalScript 
+coroutine.wrap(PUHE_fake_script)()
+local function PMWJO_fake_script() -- SpamSound.LocalScript 
 	local script = Instance.new('LocalScript', SpamSound)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2030,8 +1863,8 @@ local function YKXYEX_fake_script() -- SpamSound.LocalScript
 		end
 	end)
 end
-coroutine.wrap(YKXYEX_fake_script)()
-local function SBEH_fake_script() -- SpamSound.LocalScript 
+coroutine.wrap(PMWJO_fake_script)()
+local function YTFMS_fake_script() -- SpamSound.LocalScript 
 	local script = Instance.new('LocalScript', SpamSound)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2039,8 +1872,8 @@ local function SBEH_fake_script() -- SpamSound.LocalScript
 		script.Parent.Parent.SpamSound.Visible = false
 	end)
 end
-coroutine.wrap(SBEH_fake_script)()
-local function AGQLF_fake_script() -- SpamSound2.LocalScript 
+coroutine.wrap(YTFMS_fake_script)()
+local function KRRIS_fake_script() -- SpamSound2.LocalScript 
 	local script = Instance.new('LocalScript', SpamSound2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2059,8 +1892,8 @@ local function AGQLF_fake_script() -- SpamSound2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(AGQLF_fake_script)()
-local function JZGJKBH_fake_script() -- SpamSound2.LocalScript 
+coroutine.wrap(KRRIS_fake_script)()
+local function TVCVSVZ_fake_script() -- SpamSound2.LocalScript 
 	local script = Instance.new('LocalScript', SpamSound2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2068,8 +1901,8 @@ local function JZGJKBH_fake_script() -- SpamSound2.LocalScript
 		script.Parent.Parent.SpamSound.Visible = true
 	end)
 end
-coroutine.wrap(JZGJKBH_fake_script)()
-local function OSPI_fake_script() -- SpamChangeHat.LocalScript 
+coroutine.wrap(TVCVSVZ_fake_script)()
+local function BMAE_fake_script() -- SpamChangeHat.LocalScript 
 	local script = Instance.new('LocalScript', SpamChangeHat)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2089,8 +1922,8 @@ local function OSPI_fake_script() -- SpamChangeHat.LocalScript
 		end
 	end)
 end
-coroutine.wrap(OSPI_fake_script)()
-local function GUVKNQV_fake_script() -- SpamChangeHat.LocalScript 
+coroutine.wrap(BMAE_fake_script)()
+local function HJACZC_fake_script() -- SpamChangeHat.LocalScript 
 	local script = Instance.new('LocalScript', SpamChangeHat)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2098,8 +1931,8 @@ local function GUVKNQV_fake_script() -- SpamChangeHat.LocalScript
 		script.Parent.Parent.SpamChangeHat2.Visible = true
 	end)
 end
-coroutine.wrap(GUVKNQV_fake_script)()
-local function MFRKZA_fake_script() -- SpamChangeHat2.LocalScript 
+coroutine.wrap(HJACZC_fake_script)()
+local function FRKDNR_fake_script() -- SpamChangeHat2.LocalScript 
 	local script = Instance.new('LocalScript', SpamChangeHat2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2119,8 +1952,8 @@ local function MFRKZA_fake_script() -- SpamChangeHat2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(MFRKZA_fake_script)()
-local function GNYPO_fake_script() -- SpamChangeHat2.LocalScript 
+coroutine.wrap(FRKDNR_fake_script)()
+local function BNKATW_fake_script() -- SpamChangeHat2.LocalScript 
 	local script = Instance.new('LocalScript', SpamChangeHat2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2128,8 +1961,8 @@ local function GNYPO_fake_script() -- SpamChangeHat2.LocalScript
 		script.Parent.Parent.SpamChangeHat2.Visible = false
 	end)
 end
-coroutine.wrap(GNYPO_fake_script)()
-local function MGMBE_fake_script() -- Plus.LocalScript 
+coroutine.wrap(BNKATW_fake_script)()
+local function OSHSVWY_fake_script() -- Plus.LocalScript 
 	local script = Instance.new('LocalScript', Plus)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2144,15 +1977,15 @@ local function MGMBE_fake_script() -- Plus.LocalScript
 		script.Parent.Parent.Mini.Visible = true
 	end)
 end
-coroutine.wrap(MGMBE_fake_script)()
-local function TXYTZON_fake_script() -- Start.LocalScript 
+coroutine.wrap(OSHSVWY_fake_script)()
+local function NQFLU_fake_script() -- Start.LocalScript 
 	local script = Instance.new('LocalScript', Start)
 
 	script.Parent.Active = true
 	script.Parent.Draggable = true
 end
-coroutine.wrap(TXYTZON_fake_script)()
-local function NZNYJDY_fake_script() -- ConfirmKey.LocalScript 
+coroutine.wrap(NQFLU_fake_script)()
+local function IHLXWW_fake_script() -- ConfirmKey.LocalScript 
 	local script = Instance.new('LocalScript', ConfirmKey)
 
 	local key = script.Parent.Parent.key
@@ -2173,12 +2006,12 @@ local function NZNYJDY_fake_script() -- ConfirmKey.LocalScript
 	end)
 	
 end
-coroutine.wrap(NZNYJDY_fake_script)()
-local function HZRKPKH_fake_script() -- GetKey.LocalScript 
+coroutine.wrap(IHLXWW_fake_script)()
+local function UBQB_fake_script() -- GetKey.LocalScript 
 	local script = Instance.new('LocalScript', GetKey)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		print("lol")
+		setclipboard("https://discord.gg/XbtYhNZCaZ")
 	end)
 end
-coroutine.wrap(HZRKPKH_fake_script)()
+coroutine.wrap(UBQB_fake_script)()
